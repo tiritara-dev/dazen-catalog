@@ -1,5 +1,785 @@
 [
   {
+    "track_id": "rht_20261025_rain_at_the_old_inn_01",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 1,
+    "title": {
+      "ja": "薄暮の境界",
+      "en": "Rain at the Old Inn I",
+      "zh-Hans": "老客栈听雨 I",
+      "zh-Hant": "老客棧聽雨 I",
+      "ko": "오래된 여관의 빗소리 I",
+      "es": "Lluvia en la vieja posada I"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_01.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_01.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 157,
+    "sha256": "5e3345a8dc5c4a93d3a93caea6dc1eb124b5235a2659b57f64d3f14e306bf1f2",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=0s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:26.578560+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_02",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 2,
+    "title": {
+      "ja": "軒端の滴",
+      "en": "Rain at the Old Inn II",
+      "zh-Hans": "老客栈听雨 II",
+      "zh-Hant": "老客棧聽雨 II",
+      "ko": "오래된 여관의 빗소리 II",
+      "es": "Lluvia en la vieja posada II"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_02.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_02.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 176,
+    "sha256": "627c92f22e7f3ee00a4005c07f17e4f04671e8544b2ce4a349dafd6a9ed1602f",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=157s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:26.875970+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_03",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 3,
+    "title": {
+      "ja": "苔庭を濡らす藍",
+      "en": "Rain at the Old Inn III",
+      "zh-Hans": "老客栈听雨 III",
+      "zh-Hant": "老客棧聽雨 III",
+      "ko": "오래된 여관의 빗소리 III",
+      "es": "Lluvia en la vieja posada III"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_03.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_03.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 161,
+    "sha256": "45a8df1cf6448fd5b9953237cbc1ef86c2618de50a8bcdbd5ea5ebb64d9d7550",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=325s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:27.167717+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_04",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 4,
+    "title": {
+      "ja": "古びた畳の呼吸",
+      "en": "Rain at the Old Inn IV",
+      "zh-Hans": "老客栈听雨 IV",
+      "zh-Hant": "老客棧聽雨 IV",
+      "ko": "오래된 여관의 빗소리 IV",
+      "es": "Lluvia en la vieja posada IV"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_04.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_04.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 173,
+    "sha256": "050b4958b958e0b0adb5f66dceb7a5a204e5c25fe80467205c746b046cd15c49",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=478s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:27.472074+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_05",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 5,
+    "title": {
+      "ja": "閑寂なる客間",
+      "en": "Rain at the Old Inn V",
+      "zh-Hans": "老客栈听雨 V",
+      "zh-Hant": "老客棧聽雨 V",
+      "ko": "오래된 여관의 빗소리 V",
+      "es": "Lluvia en la vieja posada V"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_05.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_05.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 172,
+    "sha256": "b27116f578243b6f69a666a31ec9bdcd7560c15ae3fbe836066dd2c3ce7a07d1",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=643s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:27.803224+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_06",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 6,
+    "title": {
+      "ja": "遠雷と茶の湯気",
+      "en": "Rain at the Old Inn VI",
+      "zh-Hans": "老客栈听雨 VI",
+      "zh-Hant": "老客棧聽雨 VI",
+      "ko": "오래된 여관의 빗소리 VI",
+      "es": "Lluvia en la vieja posada VI"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_06.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_06.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 171,
+    "sha256": "7917ff2f9259b0c535a9242c259cc6cfa1fbd93102daef5fed67b09a981bc389",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=807s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:28.062637+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_07",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 7,
+    "title": {
+      "ja": "夕闇に溶ける山際",
+      "en": "Rain at the Old Inn VII",
+      "zh-Hans": "老客栈听雨 VII",
+      "zh-Hant": "老客棧聽雨 VII",
+      "ko": "오래된 여관의 빗소리 VII",
+      "es": "Lluvia en la vieja posada VII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_07.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_07.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 180,
+    "sha256": "8adf83087212696be1bd2c4d1a5a47c3219d7864673264538283639728beb7c7",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=970s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:28.371415+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_08",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 8,
+    "title": {
+      "ja": "灯籠の微光",
+      "en": "Rain at the Old Inn VIII",
+      "zh-Hans": "老客栈听雨 VIII",
+      "zh-Hant": "老客棧聽雨 VIII",
+      "ko": "오래된 여관의 빗소리 VIII",
+      "es": "Lluvia en la vieja posada VIII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_08.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_08.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 171,
+    "sha256": "28ff41a122bb1565392d7f4252ef61eb8378c58cc0993ac193ce3887c56c1268",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1142s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:28.838018+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_09",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 9,
+    "title": {
+      "ja": "雨音の帳",
+      "en": "Rain at the Old Inn IX",
+      "zh-Hans": "老客栈听雨 IX",
+      "zh-Hant": "老客棧聽雨 IX",
+      "ko": "오래된 여관의 빗소리 IX",
+      "es": "Lluvia en la vieja posada IX"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_09.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_09.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 171,
+    "sha256": "3fb58be4590d356e4f7eed662b7ea35c05b0ab40a03e9ac0b14b11b8c82230b7",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1304s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:29.092690+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_10",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 10,
+    "title": {
+      "ja": "内なる水の対話",
+      "en": "Rain at the Old Inn X",
+      "zh-Hans": "老客栈听雨 X",
+      "zh-Hant": "老客棧聽雨 X",
+      "ko": "오래된 여관의 빗소리 X",
+      "es": "Lluvia en la vieja posada X"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_10.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_10.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 163,
+    "sha256": "bd6ca25355c5858d36cc82a3631e21d0faba320e0cf685e4ca3d028046d14eb4",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1467s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:29.412335+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_11",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 11,
+    "title": {
+      "ja": "宵闇の寝処",
+      "en": "Rain at the Old Inn XI",
+      "zh-Hans": "老客栈听雨 XI",
+      "zh-Hant": "老客棧聽雨 XI",
+      "ko": "오래된 여관의 빗소리 XI",
+      "es": "Lluvia en la vieja posada XI"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_11.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_11.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 172,
+    "sha256": "1e415bee6d8cd2fc1f398d852c63e126bc6c82d061e8e4477aa5ccf5ccb2e4f2",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1623s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:29.692622+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_12",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 12,
+    "title": {
+      "ja": "風鈴の消えぬ余韻",
+      "en": "Rain at the Old Inn XII",
+      "zh-Hans": "老客栈听雨 XII",
+      "zh-Hant": "老客棧聽雨 XII",
+      "ko": "오래된 여관의 빗소리 XII",
+      "es": "Lluvia en la vieja posada XII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_12.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_12.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 174,
+    "sha256": "0aa1a7fb9801cac1a3b6f2e89811cd1950106cdf9578bcee209ef03112a1de89",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1787s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:29.980415+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_13",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 13,
+    "title": {
+      "ja": "微睡みの縁側",
+      "en": "Rain at the Old Inn XIII",
+      "zh-Hans": "老客栈听雨 XIII",
+      "zh-Hant": "老客棧聽雨 XIII",
+      "ko": "오래된 여관의 빗소리 XIII",
+      "es": "Lluvia en la vieja posada XIII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_13.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_13.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 173,
+    "sha256": "099672e5517df0c01d0a93e946abf66422936834aff6d95fb6672fc8dcb77352",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1953s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:30.463290+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_14",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 14,
+    "title": {
+      "ja": "朧月と雲の層",
+      "en": "Rain at the Old Inn XIV",
+      "zh-Hans": "老客栈听雨 XIV",
+      "zh-Hant": "老客棧聽雨 XIV",
+      "ko": "오래된 여관의 빗소리 XIV",
+      "es": "Lluvia en la vieja posada XIV"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_14.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_14.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 178,
+    "sha256": "ded13a46c071806c71fb6289e7d5e3a8da154da08b84653fbe04cd129692cf91",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2118s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:30.805377+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_15",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 15,
+    "title": {
+      "ja": "夢路への小舟",
+      "en": "Rain at the Old Inn XV",
+      "zh-Hans": "老客栈听雨 XV",
+      "zh-Hant": "老客棧聽雨 XV",
+      "ko": "오래된 여관의 빗소리 XV",
+      "es": "Lluvia en la vieja posada XV"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_15.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_15.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 155,
+    "sha256": "30d429cbdc32b4554d5f7865f02e847e13988cbdf454cc481a7650448f28a6a0",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2288s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:31.289651+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_16",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 16,
+    "title": {
+      "ja": "万象の沈黙",
+      "en": "Rain at the Old Inn XVI",
+      "zh-Hans": "老客栈听雨 XVI",
+      "zh-Hant": "老客棧聽雨 XVI",
+      "ko": "오래된 여관의 빗소리 XVI",
+      "es": "Lluvia en la vieja posada XVI"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_16.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_16.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 169,
+    "sha256": "8e7d693eb4ea73872b4ebeb2255dd110a0872c09ab0e6ee9cf60f5606ee26198",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2436s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:31.633449+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_17",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 17,
+    "title": {
+      "ja": "慈雨の追憶",
+      "en": "Rain at the Old Inn XVII",
+      "zh-Hans": "老客栈听雨 XVII",
+      "zh-Hant": "老客棧聽雨 XVII",
+      "ko": "오래된 여관의 빗소리 XVII",
+      "es": "Lluvia en la vieja posada XVII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_17.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_17.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 175,
+    "sha256": "9b7b876ff735f2ffeb09132a248219249cfc4ed438330947fdcc91ab32a3184a",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2597s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:31.996533+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_18",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 18,
+    "title": {
+      "ja": "魂を洗う雫",
+      "en": "Rain at the Old Inn XVIII",
+      "zh-Hans": "老客栈听雨 XVIII",
+      "zh-Hant": "老客棧聽雨 XVIII",
+      "ko": "오래된 여관의 빗소리 XVIII",
+      "es": "Lluvia en la vieja posada XVIII"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_18.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_18.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 177,
+    "sha256": "ca3582f4b30d637f7added94b9c170542a5fcea993619db497d35cec3a5d258b",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2764s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:32.363609+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_19",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 19,
+    "title": {
+      "ja": "深淵なる安らぎ",
+      "en": "Rain at the Old Inn XIX",
+      "zh-Hans": "老客栈听雨 XIX",
+      "zh-Hant": "老客棧聽雨 XIX",
+      "ko": "오래된 여관의 빗소리 XIX",
+      "es": "Lluvia en la vieja posada XIX"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_19.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_19.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 175,
+    "sha256": "d0fb7910430171f17faf9d9ca5a348bb739485a3e782c3c2fc1051af31a9cfc4",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2934s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:32.634562+00:00"
+  },
+  {
+    "track_id": "rht_20261025_rain_at_the_old_inn_20",
+    "episode_id": "20261025_rain_at_the_old_inn",
+    "order": 20,
+    "title": {
+      "ja": "朝靄への序曲",
+      "en": "Rain at the Old Inn XX",
+      "zh-Hans": "老客栈听雨 XX",
+      "zh-Hant": "老客棧聽雨 XX",
+      "ko": "오래된 여관의 빗소리 XX",
+      "es": "Lluvia en la vieja posada XX"
+    },
+    "episode_title": {
+      "ja": "雨の旅籠",
+      "en": "Rain at the Old Inn",
+      "zh-Hans": "老客栈听雨",
+      "zh-Hant": "老客棧聽雨",
+      "ko": "오래된 여관의 빗소리",
+      "es": "Lluvia en la vieja posada"
+    },
+    "theme_id": "rain_at_the_old_inn",
+    "file": "tracks/rht_20261025_rain_at_the_old_inn_20.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_20.m4a",
+    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
+    "duration_sec": 175,
+    "sha256": "9604d9eb446703fca93c5a78003b097dcb24bec2032a29b6fd855472f690f970",
+    "bpm": 60,
+    "mood": [
+      "cozy",
+      "rain",
+      "night"
+    ],
+    "youtube_video_id": "weq2OPhdTjs",
+    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=3101s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:30:32.912713+00:00"
+  },
+  {
     "track_id": "rht_20261023_call_of_the_distant_wind_01",
     "episode_id": "20261023_call_of_the_distant_wind",
     "order": 1,
