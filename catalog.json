@@ -1,5 +1,785 @@
 [
   {
+    "track_id": "rht_20261023_call_of_the_distant_wind_01",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 1,
+    "title": {
+      "ja": "微風の訪れ",
+      "en": "Call of the Distant Wind I",
+      "zh-Hans": "远风的呼唤 I",
+      "zh-Hant": "遠風的呼喚 I",
+      "ko": "아득한 바람의 부름 I",
+      "es": "La llamada del viento lejano I"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_01.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_01.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 174,
+    "sha256": "947ef24b980f73561cc6cf7d8cb05f4b5020fc53bbd668780b8924dd416af158",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=0s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:53.469894+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_02",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 2,
+    "title": {
+      "ja": "茜さす境界",
+      "en": "Call of the Distant Wind II",
+      "zh-Hans": "远风的呼唤 II",
+      "zh-Hant": "遠風的呼喚 II",
+      "ko": "아득한 바람의 부름 II",
+      "es": "La llamada del viento lejano II"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_02.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_02.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 177,
+    "sha256": "7cb5467470b79f31ad7a7d4f7448f6f2a5c43791ffc564b1f2bd2695005efb2b",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=174s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:53.796303+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_03",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 3,
+    "title": {
+      "ja": "暮れゆく記憶の輪郭",
+      "en": "Call of the Distant Wind III",
+      "zh-Hans": "远风的呼唤 III",
+      "zh-Hant": "遠風的呼喚 III",
+      "ko": "아득한 바람의 부름 III",
+      "es": "La llamada del viento lejano III"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_03.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_03.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 163,
+    "sha256": "4fb678ada08f13823d529d9bcfc986e6c86b1aeb1b7adf93fb0c79068e095f55",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=343s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:54.168050+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_04",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 4,
+    "title": {
+      "ja": "静寂の呼吸",
+      "en": "Call of the Distant Wind IV",
+      "zh-Hans": "远风的呼唤 IV",
+      "zh-Hant": "遠風的呼喚 IV",
+      "ko": "아득한 바람의 부름 IV",
+      "es": "La llamada del viento lejano IV"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_04.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_04.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 157,
+    "sha256": "c6670b5732dfecf8f38013174b6f641f6dafb3b3ed63f54ec449c6622eba6b60",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=497s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:54.460767+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_05",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 5,
+    "title": {
+      "ja": "星の雫、夜の始まり",
+      "en": "Call of the Distant Wind V",
+      "zh-Hans": "远风的呼唤 V",
+      "zh-Hant": "遠風的呼喚 V",
+      "ko": "아득한 바람의 부름 V",
+      "es": "La llamada del viento lejano V"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_05.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_05.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 138,
+    "sha256": "bde6bcb8e6cc060978938f1c15292514eadc884001df8fea15300fe8f495bf3b",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=647s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:54.775553+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_06",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 6,
+    "title": {
+      "ja": "追憶の風鈴",
+      "en": "Call of the Distant Wind VI",
+      "zh-Hans": "远风的呼唤 VI",
+      "zh-Hant": "遠風的呼喚 VI",
+      "ko": "아득한 바람의 부름 VI",
+      "es": "La llamada del viento lejano VI"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_06.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_06.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 178,
+    "sha256": "12bd1d0960419f076b1c9e995a25b892507475afe1f46d54e7c2f889349ee9b8",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=777s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:55.135231+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_07",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 7,
+    "title": {
+      "ja": "水面に沈む残光",
+      "en": "Call of the Distant Wind VII",
+      "zh-Hans": "远风的呼唤 VII",
+      "zh-Hant": "遠風的呼喚 VII",
+      "ko": "아득한 바람의 부름 VII",
+      "es": "La llamada del viento lejano VII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_07.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_07.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 175,
+    "sha256": "898d5d2e577bd3755d2a5311b6f65f90d5f018f64cf98ec67927b2660119acf9",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=947s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:55.560094+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_08",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 8,
+    "title": {
+      "ja": "月の揺籃曲",
+      "en": "Call of the Distant Wind VIII",
+      "zh-Hans": "远风的呼唤 VIII",
+      "zh-Hant": "遠風的呼喚 VIII",
+      "ko": "아득한 바람의 부름 VIII",
+      "es": "La llamada del viento lejano VIII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_08.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_08.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 175,
+    "sha256": "3cc643cc8bdca6ac1316116c2b42dcccd3e6746069e014fd17afbca77b8546f2",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1114s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:55.879054+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_09",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 9,
+    "title": {
+      "ja": "森の深淵で眠る",
+      "en": "Call of the Distant Wind IX",
+      "zh-Hans": "远风的呼唤 IX",
+      "zh-Hant": "遠風的呼喚 IX",
+      "ko": "아득한 바람의 부름 IX",
+      "es": "La llamada del viento lejano IX"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_09.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_09.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 170,
+    "sha256": "549e897e0197250eeb74e62e2c95b9ab0069241bfc6730dee4a5d9371985377f",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1281s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:56.313818+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_10",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 10,
+    "title": {
+      "ja": "雲の切れ間の祈り",
+      "en": "Call of the Distant Wind X",
+      "zh-Hans": "远风的呼唤 X",
+      "zh-Hant": "遠風的呼喚 X",
+      "ko": "아득한 바람의 부름 X",
+      "es": "La llamada del viento lejano X"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_10.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_10.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 154,
+    "sha256": "e14dbf06470b7d1e8d6161c3299d249ca17d64275972efd5c742196f18682246",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1443s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:56.603103+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_11",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 11,
+    "title": {
+      "ja": "遠き笛の音に寄せて",
+      "en": "Call of the Distant Wind XI",
+      "zh-Hans": "远风的呼唤 XI",
+      "zh-Hant": "遠風的呼喚 XI",
+      "ko": "아득한 바람의 부름 XI",
+      "es": "La llamada del viento lejano XI"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_11.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_11.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 174,
+    "sha256": "947b69d9ed82f535a1cc802cec7b3a08a406f021ce300e54ad63d8fc3cf3a3e8",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1589s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:56.904006+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_12",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 12,
+    "title": {
+      "ja": "漂う意識の断片",
+      "en": "Call of the Distant Wind XII",
+      "zh-Hans": "远风的呼唤 XII",
+      "zh-Hant": "遠風的呼喚 XII",
+      "ko": "아득한 바람의 부름 XII",
+      "es": "La llamada del viento lejano XII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_12.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_12.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 159,
+    "sha256": "d740418360c43f202d8d13dd0afecaff3e0d3e60ecef15347f211fc28c3e249d",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1755s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:57.192554+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_13",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 13,
+    "title": {
+      "ja": "宵闇の囁き",
+      "en": "Call of the Distant Wind XIII",
+      "zh-Hans": "远风的呼唤 XIII",
+      "zh-Hant": "遠風的呼喚 XIII",
+      "ko": "아득한 바람의 부름 XIII",
+      "es": "La llamada del viento lejano XIII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_13.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_13.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 170,
+    "sha256": "a28674c0066dea7e297a9d798cefdf8870d84b091d6678bc5986ce23fbc75f46",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1907s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:57.512634+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_14",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 14,
+    "title": {
+      "ja": "凪いだ時間の庭",
+      "en": "Call of the Distant Wind XIV",
+      "zh-Hans": "远风的呼唤 XIV",
+      "zh-Hant": "遠風的呼喚 XIV",
+      "ko": "아득한 바람의 부름 XIV",
+      "es": "La llamada del viento lejano XIV"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_14.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_14.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 178,
+    "sha256": "b27b83d7308981a101d97a816ecc450f3070e5a45ecce8e013d8536ebaecdeb4",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2069s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:57.993215+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_15",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 15,
+    "title": {
+      "ja": "夢路を辿る風",
+      "en": "Call of the Distant Wind XV",
+      "zh-Hans": "远风的呼唤 XV",
+      "zh-Hant": "遠風的呼喚 XV",
+      "ko": "아득한 바람의 부름 XV",
+      "es": "La llamada del viento lejano XV"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_15.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_15.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 160,
+    "sha256": "6341b3f375c81c7226bb4d3c87e2f84ba508f91305b2894a7de7e8383fff44cc",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2239s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:58.298383+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_16",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 16,
+    "title": {
+      "ja": "透き通る孤独",
+      "en": "Call of the Distant Wind XVI",
+      "zh-Hans": "远风的呼唤 XVI",
+      "zh-Hant": "遠風的呼喚 XVI",
+      "ko": "아득한 바람의 부름 XVI",
+      "es": "La llamada del viento lejano XVI"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_16.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_16.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 178,
+    "sha256": "e38432bb90b7608c35a55596ee642e67ccaae6b734372055e4bd96eaceb4405c",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2391s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:58.636232+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_17",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 17,
+    "title": {
+      "ja": "悠久の眠りへ",
+      "en": "Call of the Distant Wind XVII",
+      "zh-Hans": "远风的呼唤 XVII",
+      "zh-Hant": "遠風的呼喚 XVII",
+      "ko": "아득한 바람의 부름 XVII",
+      "es": "La llamada del viento lejano XVII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_17.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_17.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 176,
+    "sha256": "d0c200c5713d57b9dd44ebf00189833c9dd013c41e524153e5e950644a3811fa",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2561s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:58.909559+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_18",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 18,
+    "title": {
+      "ja": "夜露の瞑想",
+      "en": "Call of the Distant Wind XVIII",
+      "zh-Hans": "远风的呼唤 XVIII",
+      "zh-Hant": "遠風的呼喚 XVIII",
+      "ko": "아득한 바람의 부름 XVIII",
+      "es": "La llamada del viento lejano XVIII"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_18.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_18.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 178,
+    "sha256": "0bcb0628d9d98529b4cffa35d562e2dd8d217976b3fd1b4c71bea755a6d55cab",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2729s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:59.201425+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_19",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 19,
+    "title": {
+      "ja": "忘却の向こう側",
+      "en": "Call of the Distant Wind XIX",
+      "zh-Hans": "远风的呼唤 XIX",
+      "zh-Hant": "遠風的呼喚 XIX",
+      "ko": "아득한 바람의 부름 XIX",
+      "es": "La llamada del viento lejano XIX"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_19.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_19.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 165,
+    "sha256": "15fe1e43085abd9018da1263de7a57d6b540b5d53df465e704d953c30054a845",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2899s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:59.501599+00:00"
+  },
+  {
+    "track_id": "rht_20261023_call_of_the_distant_wind_20",
+    "episode_id": "20261023_call_of_the_distant_wind",
+    "order": 20,
+    "title": {
+      "ja": "黎明への序曲",
+      "en": "Call of the Distant Wind XX",
+      "zh-Hans": "远风的呼唤 XX",
+      "zh-Hant": "遠風的呼喚 XX",
+      "ko": "아득한 바람의 부름 XX",
+      "es": "La llamada del viento lejano XX"
+    },
+    "episode_title": {
+      "ja": "遠い風の呼び声",
+      "en": "Call of the Distant Wind",
+      "zh-Hans": "远风的呼唤",
+      "zh-Hant": "遠風的呼喚",
+      "ko": "아득한 바람의 부름",
+      "es": "La llamada del viento lejano"
+    },
+    "theme_id": "call_of_the_distant_wind",
+    "file": "tracks/rht_20261023_call_of_the_distant_wind_20.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_20.m4a",
+    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "duration_sec": 170,
+    "sha256": "295488e60da7903b49483c89489b3a339c8d9e509b3c6ea4d53469338ace8cde",
+    "bpm": 55,
+    "mood": [
+      "airy",
+      "vast",
+      "mysterious"
+    ],
+    "youtube_video_id": "-y-Rp4Rgu9M",
+    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=3056s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:59.759240+00:00"
+  },
+  {
     "track_id": "rht_20261020_dusk_on_red_hill_01",
     "episode_id": "20261020_dusk_on_red_hill",
     "order": 1,
