@@ -1,5 +1,785 @@
 [
   {
+    "track_id": "rht_20261025_starfall_hill_01",
+    "episode_id": "20261025_starfall_hill",
+    "order": 1,
+    "title": {
+      "ja": "陽光のなごり",
+      "en": "Starfall Hill I",
+      "zh-Hans": "星落之丘 I",
+      "zh-Hant": "星落之丘 I",
+      "ko": "별이 내리는 언덕 I",
+      "es": "Colina de estrellas fugaces I"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_01.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_01.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 168,
+    "sha256": "3f1154347887ce4e2b6565e42c5070c45a298f738d32ea2ad993e649aa9f1938",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=0s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:00.885329+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_02",
+    "episode_id": "20261025_starfall_hill",
+    "order": 2,
+    "title": {
+      "ja": "茜さす稜線の影",
+      "en": "Starfall Hill II",
+      "zh-Hans": "星落之丘 II",
+      "zh-Hant": "星落之丘 II",
+      "ko": "별이 내리는 언덕 II",
+      "es": "Colina de estrellas fugaces II"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_02.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_02.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 178,
+    "sha256": "afcc06d7406d62ef151ad91a550d3f9a62225b41460a34253d12e5901884a929",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=168s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:01.169413+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_03",
+    "episode_id": "20261025_starfall_hill",
+    "order": 3,
+    "title": {
+      "ja": "宵の明星のまどろみ",
+      "en": "Starfall Hill III",
+      "zh-Hans": "星落之丘 III",
+      "zh-Hant": "星落之丘 III",
+      "ko": "별이 내리는 언덕 III",
+      "es": "Colina de estrellas fugaces III"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_03.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_03.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 127,
+    "sha256": "741fe6d2baeb7779219a19937e909558e69297604e6bea375e8b8afc651647c5",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=338s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:01.388762+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_04",
+    "episode_id": "20261025_starfall_hill",
+    "order": 4,
+    "title": {
+      "ja": "藍色に溶ける吐息",
+      "en": "Starfall Hill IV",
+      "zh-Hans": "星落之丘 IV",
+      "zh-Hant": "星落之丘 IV",
+      "ko": "별이 내리는 언덕 IV",
+      "es": "Colina de estrellas fugaces IV"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_04.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_04.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 170,
+    "sha256": "8eac3a0f1f77089dbf2c56ad4d36e9cd19052b8bdda015a8b141ed4b64d2a6bf",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=458s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:01.655879+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_05",
+    "episode_id": "20261025_starfall_hill",
+    "order": 5,
+    "title": {
+      "ja": "霧の向こうの境界線",
+      "en": "Starfall Hill V",
+      "zh-Hans": "星落之丘 V",
+      "zh-Hant": "星落之丘 V",
+      "ko": "별이 내리는 언덕 V",
+      "es": "Colina de estrellas fugaces V"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_05.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_05.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 157,
+    "sha256": "96e2d43e3a7e18f036cbe96a1def0d9cd1cafaa148ad188c2cf6b11239543045",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=620s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:01.926747+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_06",
+    "episode_id": "20261025_starfall_hill",
+    "order": 6,
+    "title": {
+      "ja": "星屑の産声",
+      "en": "Starfall Hill VI",
+      "zh-Hans": "星落之丘 VI",
+      "zh-Hant": "星落之丘 VI",
+      "ko": "별이 내리는 언덕 VI",
+      "es": "Colina de estrellas fugaces VI"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_06.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_06.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 166,
+    "sha256": "a96686c6ea37366d3bb8816e3af39d8c78c4c5e30a90f72df6b447d60ddd5e3f",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=769s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.004630+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_07",
+    "episode_id": "20261025_starfall_hill",
+    "order": 7,
+    "title": {
+      "ja": "意識を脱ぐ場所",
+      "en": "Starfall Hill VII",
+      "zh-Hans": "星落之丘 VII",
+      "zh-Hant": "星落之丘 VII",
+      "ko": "별이 내리는 언덕 VII",
+      "es": "Colina de estrellas fugaces VII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_07.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_07.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 169,
+    "sha256": "df6b8ddae02c8f908b91fca704156a2ffed8b3ba0ea25303b47d30327e0e6607",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=927s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.096991+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_08",
+    "episode_id": "20261025_starfall_hill",
+    "order": 8,
+    "title": {
+      "ja": "呼応する静寂",
+      "en": "Starfall Hill VIII",
+      "zh-Hans": "星落之丘 VIII",
+      "zh-Hant": "星落之丘 VIII",
+      "ko": "별이 내리는 언덕 VIII",
+      "es": "Colina de estrellas fugaces VIII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_08.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_08.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 131,
+    "sha256": "7fdc810663904202f677d53e125ccec3e5bc6c67d154820df2cf414b568eda1d",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1088s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.207244+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_09",
+    "episode_id": "20261025_starfall_hill",
+    "order": 9,
+    "title": {
+      "ja": "宙の微熱",
+      "en": "Starfall Hill IX",
+      "zh-Hans": "星落之丘 IX",
+      "zh-Hant": "星落之丘 IX",
+      "ko": "별이 내리는 언덕 IX",
+      "es": "Colina de estrellas fugaces IX"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_09.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_09.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 166,
+    "sha256": "48cdf5ecbe293cbd4a6c26f59ecca0a5377a7b632d233add42032b043b34bf7e",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1211s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.306857+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_10",
+    "episode_id": "20261025_starfall_hill",
+    "order": 10,
+    "title": {
+      "ja": "星降る丘の祈り",
+      "en": "Starfall Hill X",
+      "zh-Hans": "星落之丘 X",
+      "zh-Hant": "星落之丘 X",
+      "ko": "별이 내리는 언덕 X",
+      "es": "Colina de estrellas fugaces X"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_10.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_10.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 155,
+    "sha256": "c946c5dd444a853b18e0695f30fe9ded9468cc9e7704a6fd1e0475650258eb29",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1369s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.398696+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_11",
+    "episode_id": "20261025_starfall_hill",
+    "order": 11,
+    "title": {
+      "ja": "瑠璃色の沈黙",
+      "en": "Starfall Hill XI",
+      "zh-Hans": "星落之丘 XI",
+      "zh-Hant": "星落之丘 XI",
+      "ko": "별이 내리는 언덕 XI",
+      "es": "Colina de estrellas fugaces XI"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_11.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_11.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 179,
+    "sha256": "49e6e1b873a5256a65c7a9691108c824bdbfeb219328de9e897719d15034311a",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1516s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.476514+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_12",
+    "episode_id": "20261025_starfall_hill",
+    "order": 12,
+    "title": {
+      "ja": "眠れる森のささやき",
+      "en": "Starfall Hill XII",
+      "zh-Hans": "星落之丘 XII",
+      "zh-Hant": "星落之丘 XII",
+      "ko": "별이 내리는 언덕 XII",
+      "es": "Colina de estrellas fugaces XII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_12.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_12.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 155,
+    "sha256": "2df183462c72909fd3c0d4a6efb29ac882a2b69bcd49ec9ce0a30a28c03ca532",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1687s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.555978+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_13",
+    "episode_id": "20261025_starfall_hill",
+    "order": 13,
+    "title": {
+      "ja": "銀河を渡る風",
+      "en": "Starfall Hill XIII",
+      "zh-Hans": "星落之丘 XIII",
+      "zh-Hant": "星落之丘 XIII",
+      "ko": "별이 내리는 언덕 XIII",
+      "es": "Colina de estrellas fugaces XIII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_13.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_13.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 173,
+    "sha256": "552b7736278929ef2aeda8f15f76b7e59feda206099fa6c70c798d4549d361cd",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1834s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.634548+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_14",
+    "episode_id": "20261025_starfall_hill",
+    "order": 14,
+    "title": {
+      "ja": "悠久の瞬き",
+      "en": "Starfall Hill XIV",
+      "zh-Hans": "星落之丘 XIV",
+      "zh-Hant": "星落之丘 XIV",
+      "ko": "별이 내리는 언덕 XIV",
+      "es": "Colina de estrellas fugaces XIV"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_14.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_14.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 176,
+    "sha256": "ced3e68fb8d00092b5b5c81228d33357058a1c914403ac4a8f27dbb444779d09",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1999s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.710451+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_15",
+    "episode_id": "20261025_starfall_hill",
+    "order": 15,
+    "title": {
+      "ja": "水面に映る夜の破片",
+      "en": "Starfall Hill XV",
+      "zh-Hans": "星落之丘 XV",
+      "zh-Hant": "星落之丘 XV",
+      "ko": "별이 내리는 언덕 XV",
+      "es": "Colina de estrellas fugaces XV"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_15.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_15.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 156,
+    "sha256": "be6e79da5152fe07fb960010b33d646c9b37767f33cebaec7f82aac5377a9855",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2167s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.800056+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_16",
+    "episode_id": "20261025_starfall_hill",
+    "order": 16,
+    "title": {
+      "ja": "思考を止める凪",
+      "en": "Starfall Hill XVI",
+      "zh-Hans": "星落之丘 XVI",
+      "zh-Hant": "星落之丘 XVI",
+      "ko": "별이 내리는 언덕 XVI",
+      "es": "Colina de estrellas fugaces XVI"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_16.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_16.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 167,
+    "sha256": "876961939aa8843a03a05a7cee6e2145e35c39788ead4b760638c6360dde9a90",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2315s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.867599+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_17",
+    "episode_id": "20261025_starfall_hill",
+    "order": 17,
+    "title": {
+      "ja": "夢の淵、光の雫",
+      "en": "Starfall Hill XVII",
+      "zh-Hans": "星落之丘 XVII",
+      "zh-Hant": "星落之丘 XVII",
+      "ko": "별이 내리는 언덕 XVII",
+      "es": "Colina de estrellas fugaces XVII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_17.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_17.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 135,
+    "sha256": "eb25073b015c18f51fcfa278b5152f60b2cb2dbcacba544f5b271ed682bdaa9b",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2474s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:02.960613+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_18",
+    "episode_id": "20261025_starfall_hill",
+    "order": 18,
+    "title": {
+      "ja": "満天の鼓動",
+      "en": "Starfall Hill XVIII",
+      "zh-Hans": "星落之丘 XVIII",
+      "zh-Hant": "星落之丘 XVIII",
+      "ko": "별이 내리는 언덕 XVIII",
+      "es": "Colina de estrellas fugaces XVIII"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_18.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_18.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 170,
+    "sha256": "188a43e63967110c96f6d6c3e04259ca9e42478bdada83eafd7b31df8f50818a",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2601s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:03.036853+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_19",
+    "episode_id": "20261025_starfall_hill",
+    "order": 19,
+    "title": {
+      "ja": "払暁への揺り籠",
+      "en": "Starfall Hill XIX",
+      "zh-Hans": "星落之丘 XIX",
+      "zh-Hant": "星落之丘 XIX",
+      "ko": "별이 내리는 언덕 XIX",
+      "es": "Colina de estrellas fugaces XIX"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_19.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_19.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 166,
+    "sha256": "d7c9c84d9f84b68d7ec77b345d26815eac8fa562cf932a25b59305f4229f9ebe",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2762s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:03.131704+00:00"
+  },
+  {
+    "track_id": "rht_20261025_starfall_hill_20",
+    "episode_id": "20261025_starfall_hill",
+    "order": 20,
+    "title": {
+      "ja": "終わりのない静謐",
+      "en": "Starfall Hill XX",
+      "zh-Hans": "星落之丘 XX",
+      "zh-Hant": "星落之丘 XX",
+      "ko": "별이 내리는 언덕 XX",
+      "es": "Colina de estrellas fugaces XX"
+    },
+    "episode_title": {
+      "ja": "星降る丘",
+      "en": "Starfall Hill",
+      "zh-Hans": "星落之丘",
+      "zh-Hant": "星落之丘",
+      "ko": "별이 내리는 언덕",
+      "es": "Colina de estrellas fugaces"
+    },
+    "theme_id": "starfall_hill",
+    "file": "tracks/rht_20261025_starfall_hill_20.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_20.m4a",
+    "cover": "covers/20261025_starfall_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "duration_sec": 165,
+    "sha256": "e7c1352be210fcf4f5a7114ab482b918a350ca25bf04df8c78a3153bf3d9f283",
+    "bpm": 50,
+    "mood": [
+      "dreamy",
+      "sparse",
+      "night"
+    ],
+    "youtube_video_id": "FfdmHsPUmcc",
+    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2921s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:31:03.215658+00:00"
+  },
+  {
     "track_id": "rht_20261025_rain_at_the_old_inn_01",
     "episode_id": "20261025_rain_at_the_old_inn",
     "order": 1,
