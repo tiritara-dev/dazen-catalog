@@ -1,5 +1,785 @@
 [
   {
+    "track_id": "rht_20261020_dusk_on_red_hill_01",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 1,
+    "title": {
+      "ja": "紅の息吹",
+      "en": "Dusk on Red Hill I",
+      "zh-Hans": "红山暮色 I",
+      "zh-Hant": "紅山暮色 I",
+      "ko": "레드힐의 저녁노을 I",
+      "es": "Atardecer en la Colina Roja I"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_01.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_01.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 175,
+    "sha256": "848e8c1f7c6ac0230aebd64d6461a32aa71b63766551359b0e7c76ceab77846f",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=0s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:21.760944+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_02",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 2,
+    "title": {
+      "ja": "黄金の稜線",
+      "en": "Dusk on Red Hill II",
+      "zh-Hans": "红山暮色 II",
+      "zh-Hant": "紅山暮色 II",
+      "ko": "레드힐의 저녁노을 II",
+      "es": "Atardecer en la Colina Roja II"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_02.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_02.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 169,
+    "sha256": "401bbbf2f54003e7e11ea6cab10aa329624e03da4b8cca7c20abac2dcf1aa481",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=175s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:22.043568+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_03",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 3,
+    "title": {
+      "ja": "静寂が降り積もる",
+      "en": "Dusk on Red Hill III",
+      "zh-Hans": "红山暮色 III",
+      "zh-Hant": "紅山暮色 III",
+      "ko": "레드힐의 저녁노을 III",
+      "es": "Atardecer en la Colina Roja III"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_03.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_03.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 157,
+    "sha256": "56066b303563788668081ade644793cee5106f50f437b1e17eee7363b358b7c9",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=336s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:22.306889+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_04",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 4,
+    "title": {
+      "ja": "薄暮の瞑想",
+      "en": "Dusk on Red Hill IV",
+      "zh-Hans": "红山暮色 IV",
+      "zh-Hant": "紅山暮色 IV",
+      "ko": "레드힐의 저녁노을 IV",
+      "es": "Atardecer en la Colina Roja IV"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_04.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_04.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 166,
+    "sha256": "69a1d14079fd230ff68c380b3ddb24140665361ed1e7dd0bb295bd54251a0ec3",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=485s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:22.593222+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_05",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 5,
+    "title": {
+      "ja": "たゆたう雲海",
+      "en": "Dusk on Red Hill V",
+      "zh-Hans": "红山暮色 V",
+      "zh-Hant": "紅山暮色 V",
+      "ko": "레드힐의 저녁노을 V",
+      "es": "Atardecer en la Colina Roja V"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_05.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_05.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 181,
+    "sha256": "ec07762f6032668ab2807468d4d189a1e07e17667531184f3bee3acf0bc112df",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=643s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:22.852416+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_06",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 6,
+    "title": {
+      "ja": "茜さす谷間",
+      "en": "Dusk on Red Hill VI",
+      "zh-Hans": "红山暮色 VI",
+      "zh-Hant": "紅山暮色 VI",
+      "ko": "레드힐의 저녁노을 VI",
+      "es": "Atardecer en la Colina Roja VI"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_06.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_06.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 155,
+    "sha256": "aa3c09ca715a3aa202abc05c657d0fa3929d61551466d15f7810b0357bd088f1",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=817s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:23.110862+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_07",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 7,
+    "title": {
+      "ja": "風の忘れ物",
+      "en": "Dusk on Red Hill VII",
+      "zh-Hans": "红山暮色 VII",
+      "zh-Hant": "紅山暮色 VII",
+      "ko": "레드힐의 저녁노을 VII",
+      "es": "Atardecer en la Colina Roja VII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_07.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_07.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 171,
+    "sha256": "18d50b511a4467e7277bb25e8d0c528aae44a236496f890afccde08e2bea4c48",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=964s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:23.364334+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_08",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 8,
+    "title": {
+      "ja": "山嶺の微睡み",
+      "en": "Dusk on Red Hill VIII",
+      "zh-Hans": "红山暮色 VIII",
+      "zh-Hant": "紅山暮色 VIII",
+      "ko": "레드힐의 저녁노을 VIII",
+      "es": "Atardecer en la Colina Roja VIII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_08.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_08.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 172,
+    "sha256": "d7c28e6a9b7e65be0bef50fad5fdc7096a7e8a1fa37e690507e80fa04658367c",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1127s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:23.598912+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_09",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 9,
+    "title": {
+      "ja": "紫の帳が下りる時",
+      "en": "Dusk on Red Hill IX",
+      "zh-Hans": "红山暮色 IX",
+      "zh-Hant": "紅山暮色 IX",
+      "ko": "레드힐의 저녁노을 IX",
+      "es": "Atardecer en la Colina Roja IX"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_09.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_09.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 175,
+    "sha256": "52bf66665b7f353780c367e5ffa2d815b4f636ea004e4692c29d139a3f0b67b2",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1291s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:23.910366+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_10",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 10,
+    "title": {
+      "ja": "悠久の残響",
+      "en": "Dusk on Red Hill X",
+      "zh-Hans": "红山暮色 X",
+      "zh-Hant": "紅山暮色 X",
+      "ko": "레드힐의 저녁노을 X",
+      "es": "Atardecer en la Colina Roja X"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_10.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_10.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 177,
+    "sha256": "ae06a6357bbf595e9483da5719e04240ae4b9afee897c126d964f9d0352af2d6",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1458s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:24.286179+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_11",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 11,
+    "title": {
+      "ja": "暮れなずむ森の詩",
+      "en": "Dusk on Red Hill XI",
+      "zh-Hans": "红山暮色 XI",
+      "zh-Hant": "紅山暮色 XI",
+      "ko": "레드힐의 저녁노을 XI",
+      "es": "Atardecer en la Colina Roja XI"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_11.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_11.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 177,
+    "sha256": "96482a56d4768bb7d925df0995e665533ea28dc1b1114481b0a39d8cd1105199",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1626s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:24.533910+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_12",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 12,
+    "title": {
+      "ja": "水平線なき光",
+      "en": "Dusk on Red Hill XII",
+      "zh-Hans": "红山暮色 XII",
+      "zh-Hant": "紅山暮色 XII",
+      "ko": "레드힐의 저녁노을 XII",
+      "es": "Atardecer en la Colina Roja XII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_12.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_12.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 176,
+    "sha256": "ea205e7b8651853de254d60ea45ba8f072621bd233eb190b20c2d8137bf20d6b",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1795s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:24.799839+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_13",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 13,
+    "title": {
+      "ja": "深い呼吸の果て",
+      "en": "Dusk on Red Hill XIII",
+      "zh-Hans": "红山暮色 XIII",
+      "zh-Hant": "紅山暮色 XIII",
+      "ko": "레드힐의 저녁노을 XIII",
+      "es": "Atardecer en la Colina Roja XIII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_13.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_13.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 176,
+    "sha256": "1e5e03ef5f06d48d19800da138c4f6bb13e10f31c51a38785bf299cb6cbd87cb",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1964s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:25.045918+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_14",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 14,
+    "title": {
+      "ja": "影が溶け合う刻",
+      "en": "Dusk on Red Hill XIV",
+      "zh-Hans": "红山暮色 XIV",
+      "zh-Hant": "紅山暮色 XIV",
+      "ko": "레드힐의 저녁노을 XIV",
+      "es": "Atardecer en la Colina Roja XIV"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_14.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_14.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 172,
+    "sha256": "f95c0220900d80287532ca745f1b99e3a5400fdfc6d6114d98d5289aafa601a0",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2132s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:25.351182+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_15",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 15,
+    "title": {
+      "ja": "眠れる岩肌",
+      "en": "Dusk on Red Hill XV",
+      "zh-Hans": "红山暮色 XV",
+      "zh-Hant": "紅山暮色 XV",
+      "ko": "레드힐의 저녁노을 XV",
+      "es": "Atardecer en la Colina Roja XV"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_15.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_15.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 131,
+    "sha256": "161fb7caeeff631a15f10b9b4eed41e52978ef4228c4426b859b5c5394a7a1a6",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2296s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:25.594891+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_16",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 16,
+    "title": {
+      "ja": "星を待つ静寂",
+      "en": "Dusk on Red Hill XVI",
+      "zh-Hans": "红山暮色 XVI",
+      "zh-Hant": "紅山暮色 XVI",
+      "ko": "레드힐의 저녁노을 XVI",
+      "es": "Atardecer en la Colina Roja XVI"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_16.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_16.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 176,
+    "sha256": "1b8d0d56b4f2777e8d1e285009463fd4a452803945a7e829e635d86a5cc492f2",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2419s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:25.837891+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_17",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 17,
+    "title": {
+      "ja": "紅山に祈りを",
+      "en": "Dusk on Red Hill XVII",
+      "zh-Hans": "红山暮色 XVII",
+      "zh-Hant": "紅山暮色 XVII",
+      "ko": "레드힐의 저녁노을 XVII",
+      "es": "Atardecer en la Colina Roja XVII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_17.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_17.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 167,
+    "sha256": "7f8e8f2d7a9df64ceea2d60c6c12089f011c8dc3c984c3a8635d425cb7cb0d25",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2587s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:26.110100+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_18",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 18,
+    "title": {
+      "ja": "夢幻の境界線",
+      "en": "Dusk on Red Hill XVIII",
+      "zh-Hans": "红山暮色 XVIII",
+      "zh-Hant": "紅山暮色 XVIII",
+      "ko": "레드힐의 저녁노을 XVIII",
+      "es": "Atardecer en la Colina Roja XVIII"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_18.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_18.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 177,
+    "sha256": "4d1bdf52842521bb94cdf80fb994b6f0246e60d3b955e74c86e65286af9175c6",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2746s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:26.378078+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_19",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 19,
+    "title": {
+      "ja": "藍色へ移ろう",
+      "en": "Dusk on Red Hill XIX",
+      "zh-Hans": "红山暮色 XIX",
+      "zh-Hant": "紅山暮色 XIX",
+      "ko": "레드힐의 저녁노을 XIX",
+      "es": "Atardecer en la Colina Roja XIX"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_19.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_19.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 172,
+    "sha256": "d8a71aca4bd957ed290e54cca506cae6c86ceef1fe4b8b0a09c77542b62cba84",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2915s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:26.673512+00:00"
+  },
+  {
+    "track_id": "rht_20261020_dusk_on_red_hill_20",
+    "episode_id": "20261020_dusk_on_red_hill",
+    "order": 20,
+    "title": {
+      "ja": "夜の入り口",
+      "en": "Dusk on Red Hill XX",
+      "zh-Hans": "红山暮色 XX",
+      "zh-Hant": "紅山暮色 XX",
+      "ko": "레드힐의 저녁노을 XX",
+      "es": "Atardecer en la Colina Roja XX"
+    },
+    "episode_title": {
+      "ja": "紅山の夕暮れ",
+      "en": "Dusk on Red Hill",
+      "zh-Hans": "红山暮色",
+      "zh-Hant": "紅山暮色",
+      "ko": "레드힐의 저녁노을",
+      "es": "Atardecer en la Colina Roja"
+    },
+    "theme_id": "dusk_on_red_hill",
+    "file": "tracks/rht_20261020_dusk_on_red_hill_20.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_20.m4a",
+    "cover": "covers/20261020_dusk_on_red_hill.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "duration_sec": 174,
+    "sha256": "f0c55b43b51b329f5549a803bc935501febbd019b39f28d6effee9c7ec55a6f1",
+    "bpm": 60,
+    "mood": [
+      "warm",
+      "nostalgic",
+      "calm"
+    ],
+    "youtube_video_id": "8lIEHiSInw8",
+    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=3079s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-25T16:29:26.915362+00:00"
+  },
+  {
     "track_id": "rht_20261019_dusk_on_red_hill_01",
     "episode_id": "20261019_dusk_on_red_hill",
     "order": 1,
