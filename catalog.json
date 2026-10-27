@@ -1,5 +1,44 @@
 [
   {
+    "track_id": "rht_20261026_between_dreams_and_memories_01",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 1,
+    "title": {
+      "ja": "微睡みの深淵",
+      "en": "Between Dreams and Memories I",
+      "zh-Hans": "梦与回忆之间 I",
+      "zh-Hant": "夢與回憶之間 I",
+      "ko": "꿈과 기억 사이 I",
+      "es": "Entre sueños y recuerdos I"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_01.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_01.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 158,
+    "sha256": "d4bc34d9212e0abdee5f99f04c63e9c2960fb65a9d455cc68c3bb4598e0834db",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "",
+    "youtube_url": "https://www.youtube.com/@RedHillTraveler",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-10-27T03:17:18.866925+00:00"
+  },
+  {
     "track_id": "rht_20261025_starfall_hill_01",
     "episode_id": "20261025_starfall_hill",
     "order": 1,
