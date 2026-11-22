@@ -32,3136 +32,755 @@
       "dreamy",
       "bittersweet"
     ],
-    "youtube_video_id": "K1T5QbSi650",
-    "youtube_url": "https://www.youtube.com/watch?v=K1T5QbSi650&t=0s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=0s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-27T09:15:04.505720+00:00"
+    "created_at": "2026-11-22T08:13:26.435432+00:00"
   },
   {
-    "track_id": "rht_20261025_starfall_hill_01",
-    "episode_id": "20261025_starfall_hill",
-    "order": 1,
-    "title": {
-      "ja": "陽光のなごり",
-      "en": "Starfall Hill I",
-      "zh-Hans": "星落之丘 I",
-      "zh-Hant": "星落之丘 I",
-      "ko": "별이 내리는 언덕 I",
-      "es": "Colina de estrellas fugaces I"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_01.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_01.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 168,
-    "sha256": "3f1154347887ce4e2b6565e42c5070c45a298f738d32ea2ad993e649aa9f1938",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=0s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:00.885329+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_02",
-    "episode_id": "20261025_starfall_hill",
+    "track_id": "rht_20261026_between_dreams_and_memories_02",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 2,
     "title": {
-      "ja": "茜さす稜線の影",
-      "en": "Starfall Hill II",
-      "zh-Hans": "星落之丘 II",
-      "zh-Hant": "星落之丘 II",
-      "ko": "별이 내리는 언덕 II",
-      "es": "Colina de estrellas fugaces II"
+      "ja": "薄明の境界線",
+      "en": "Between Dreams and Memories II",
+      "zh-Hans": "梦与回忆之间 II",
+      "zh-Hant": "夢與回憶之間 II",
+      "ko": "꿈과 기억 사이 II",
+      "es": "Entre sueños y recuerdos II"
     },
     "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_02.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_02.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 178,
-    "sha256": "afcc06d7406d62ef151ad91a550d3f9a62225b41460a34253d12e5901884a929",
-    "bpm": 50,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_02.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_02.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 169,
+    "sha256": "c8a25e67958062107e61102c9abf5da20b802cd5062c9989ff703dc702874bb7",
+    "bpm": 55,
     "mood": [
+      "nostalgic",
       "dreamy",
-      "sparse",
-      "night"
+      "bittersweet"
     ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=168s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=158s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:01.169413+00:00"
+    "created_at": "2026-11-22T08:13:27.292107+00:00"
   },
   {
-    "track_id": "rht_20261025_starfall_hill_03",
-    "episode_id": "20261025_starfall_hill",
+    "track_id": "rht_20261026_between_dreams_and_memories_03",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 3,
     "title": {
-      "ja": "宵の明星のまどろみ",
-      "en": "Starfall Hill III",
-      "zh-Hans": "星落之丘 III",
-      "zh-Hant": "星落之丘 III",
-      "ko": "별이 내리는 언덕 III",
-      "es": "Colina de estrellas fugaces III"
+      "ja": "記憶の澱に咲く花",
+      "en": "Between Dreams and Memories III",
+      "zh-Hans": "梦与回忆之间 III",
+      "zh-Hant": "夢與回憶之間 III",
+      "ko": "꿈과 기억 사이 III",
+      "es": "Entre sueños y recuerdos III"
     },
     "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_03.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_03.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 127,
-    "sha256": "741fe6d2baeb7779219a19937e909558e69297604e6bea375e8b8afc651647c5",
-    "bpm": 50,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_03.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_03.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 157,
+    "sha256": "08a6f4bd45a32f180fd934564ff1c64911cd1a9e81bdb5467d5cbdb1ed130787",
+    "bpm": 55,
     "mood": [
+      "nostalgic",
       "dreamy",
-      "sparse",
-      "night"
+      "bittersweet"
     ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=338s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=319s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:01.388762+00:00"
+    "created_at": "2026-11-22T08:13:28.079854+00:00"
   },
   {
-    "track_id": "rht_20261025_starfall_hill_04",
-    "episode_id": "20261025_starfall_hill",
+    "track_id": "rht_20261026_between_dreams_and_memories_04",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 4,
     "title": {
-      "ja": "藍色に溶ける吐息",
-      "en": "Starfall Hill IV",
-      "zh-Hans": "星落之丘 IV",
-      "zh-Hant": "星落之丘 IV",
-      "ko": "별이 내리는 언덕 IV",
-      "es": "Colina de estrellas fugaces IV"
+      "ja": "静寂に沈む息吹",
+      "en": "Between Dreams and Memories IV",
+      "zh-Hans": "梦与回忆之间 IV",
+      "zh-Hant": "夢與回憶之間 IV",
+      "ko": "꿈과 기억 사이 IV",
+      "es": "Entre sueños y recuerdos IV"
     },
     "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_04.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_04.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 170,
-    "sha256": "8eac3a0f1f77089dbf2c56ad4d36e9cd19052b8bdda015a8b141ed4b64d2a6bf",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=458s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:01.655879+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_05",
-    "episode_id": "20261025_starfall_hill",
-    "order": 5,
-    "title": {
-      "ja": "霧の向こうの境界線",
-      "en": "Starfall Hill V",
-      "zh-Hans": "星落之丘 V",
-      "zh-Hant": "星落之丘 V",
-      "ko": "별이 내리는 언덕 V",
-      "es": "Colina de estrellas fugaces V"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_05.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_05.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 157,
-    "sha256": "96e2d43e3a7e18f036cbe96a1def0d9cd1cafaa148ad188c2cf6b11239543045",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=620s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:01.926747+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_06",
-    "episode_id": "20261025_starfall_hill",
-    "order": 6,
-    "title": {
-      "ja": "星屑の産声",
-      "en": "Starfall Hill VI",
-      "zh-Hans": "星落之丘 VI",
-      "zh-Hant": "星落之丘 VI",
-      "ko": "별이 내리는 언덕 VI",
-      "es": "Colina de estrellas fugaces VI"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_06.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_06.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 166,
-    "sha256": "a96686c6ea37366d3bb8816e3af39d8c78c4c5e30a90f72df6b447d60ddd5e3f",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=769s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.004630+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_07",
-    "episode_id": "20261025_starfall_hill",
-    "order": 7,
-    "title": {
-      "ja": "意識を脱ぐ場所",
-      "en": "Starfall Hill VII",
-      "zh-Hans": "星落之丘 VII",
-      "zh-Hant": "星落之丘 VII",
-      "ko": "별이 내리는 언덕 VII",
-      "es": "Colina de estrellas fugaces VII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_07.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_07.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 169,
-    "sha256": "df6b8ddae02c8f908b91fca704156a2ffed8b3ba0ea25303b47d30327e0e6607",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=927s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.096991+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_08",
-    "episode_id": "20261025_starfall_hill",
-    "order": 8,
-    "title": {
-      "ja": "呼応する静寂",
-      "en": "Starfall Hill VIII",
-      "zh-Hans": "星落之丘 VIII",
-      "zh-Hant": "星落之丘 VIII",
-      "ko": "별이 내리는 언덕 VIII",
-      "es": "Colina de estrellas fugaces VIII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_08.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_08.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 131,
-    "sha256": "7fdc810663904202f677d53e125ccec3e5bc6c67d154820df2cf414b568eda1d",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1088s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.207244+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_09",
-    "episode_id": "20261025_starfall_hill",
-    "order": 9,
-    "title": {
-      "ja": "宙の微熱",
-      "en": "Starfall Hill IX",
-      "zh-Hans": "星落之丘 IX",
-      "zh-Hant": "星落之丘 IX",
-      "ko": "별이 내리는 언덕 IX",
-      "es": "Colina de estrellas fugaces IX"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_09.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_09.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 166,
-    "sha256": "48cdf5ecbe293cbd4a6c26f59ecca0a5377a7b632d233add42032b043b34bf7e",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1211s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.306857+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_10",
-    "episode_id": "20261025_starfall_hill",
-    "order": 10,
-    "title": {
-      "ja": "星降る丘の祈り",
-      "en": "Starfall Hill X",
-      "zh-Hans": "星落之丘 X",
-      "zh-Hant": "星落之丘 X",
-      "ko": "별이 내리는 언덕 X",
-      "es": "Colina de estrellas fugaces X"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_10.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_10.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 155,
-    "sha256": "c946c5dd444a853b18e0695f30fe9ded9468cc9e7704a6fd1e0475650258eb29",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1369s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.398696+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_11",
-    "episode_id": "20261025_starfall_hill",
-    "order": 11,
-    "title": {
-      "ja": "瑠璃色の沈黙",
-      "en": "Starfall Hill XI",
-      "zh-Hans": "星落之丘 XI",
-      "zh-Hant": "星落之丘 XI",
-      "ko": "별이 내리는 언덕 XI",
-      "es": "Colina de estrellas fugaces XI"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_11.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_11.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 179,
-    "sha256": "49e6e1b873a5256a65c7a9691108c824bdbfeb219328de9e897719d15034311a",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1516s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.476514+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_12",
-    "episode_id": "20261025_starfall_hill",
-    "order": 12,
-    "title": {
-      "ja": "眠れる森のささやき",
-      "en": "Starfall Hill XII",
-      "zh-Hans": "星落之丘 XII",
-      "zh-Hant": "星落之丘 XII",
-      "ko": "별이 내리는 언덕 XII",
-      "es": "Colina de estrellas fugaces XII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_12.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_12.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 155,
-    "sha256": "2df183462c72909fd3c0d4a6efb29ac882a2b69bcd49ec9ce0a30a28c03ca532",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1687s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.555978+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_13",
-    "episode_id": "20261025_starfall_hill",
-    "order": 13,
-    "title": {
-      "ja": "銀河を渡る風",
-      "en": "Starfall Hill XIII",
-      "zh-Hans": "星落之丘 XIII",
-      "zh-Hant": "星落之丘 XIII",
-      "ko": "별이 내리는 언덕 XIII",
-      "es": "Colina de estrellas fugaces XIII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_13.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_13.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 173,
-    "sha256": "552b7736278929ef2aeda8f15f76b7e59feda206099fa6c70c798d4549d361cd",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1834s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.634548+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_14",
-    "episode_id": "20261025_starfall_hill",
-    "order": 14,
-    "title": {
-      "ja": "悠久の瞬き",
-      "en": "Starfall Hill XIV",
-      "zh-Hans": "星落之丘 XIV",
-      "zh-Hant": "星落之丘 XIV",
-      "ko": "별이 내리는 언덕 XIV",
-      "es": "Colina de estrellas fugaces XIV"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_14.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_14.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 176,
-    "sha256": "ced3e68fb8d00092b5b5c81228d33357058a1c914403ac4a8f27dbb444779d09",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=1999s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.710451+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_15",
-    "episode_id": "20261025_starfall_hill",
-    "order": 15,
-    "title": {
-      "ja": "水面に映る夜の破片",
-      "en": "Starfall Hill XV",
-      "zh-Hans": "星落之丘 XV",
-      "zh-Hant": "星落之丘 XV",
-      "ko": "별이 내리는 언덕 XV",
-      "es": "Colina de estrellas fugaces XV"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_15.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_15.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 156,
-    "sha256": "be6e79da5152fe07fb960010b33d646c9b37767f33cebaec7f82aac5377a9855",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2167s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.800056+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_16",
-    "episode_id": "20261025_starfall_hill",
-    "order": 16,
-    "title": {
-      "ja": "思考を止める凪",
-      "en": "Starfall Hill XVI",
-      "zh-Hans": "星落之丘 XVI",
-      "zh-Hant": "星落之丘 XVI",
-      "ko": "별이 내리는 언덕 XVI",
-      "es": "Colina de estrellas fugaces XVI"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_16.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_16.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 167,
-    "sha256": "876961939aa8843a03a05a7cee6e2145e35c39788ead4b760638c6360dde9a90",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2315s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.867599+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_17",
-    "episode_id": "20261025_starfall_hill",
-    "order": 17,
-    "title": {
-      "ja": "夢の淵、光の雫",
-      "en": "Starfall Hill XVII",
-      "zh-Hans": "星落之丘 XVII",
-      "zh-Hant": "星落之丘 XVII",
-      "ko": "별이 내리는 언덕 XVII",
-      "es": "Colina de estrellas fugaces XVII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_17.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_17.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 135,
-    "sha256": "eb25073b015c18f51fcfa278b5152f60b2cb2dbcacba544f5b271ed682bdaa9b",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2474s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:02.960613+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_18",
-    "episode_id": "20261025_starfall_hill",
-    "order": 18,
-    "title": {
-      "ja": "満天の鼓動",
-      "en": "Starfall Hill XVIII",
-      "zh-Hans": "星落之丘 XVIII",
-      "zh-Hant": "星落之丘 XVIII",
-      "ko": "별이 내리는 언덕 XVIII",
-      "es": "Colina de estrellas fugaces XVIII"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_18.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_18.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 170,
-    "sha256": "188a43e63967110c96f6d6c3e04259ca9e42478bdada83eafd7b31df8f50818a",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2601s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:03.036853+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_19",
-    "episode_id": "20261025_starfall_hill",
-    "order": 19,
-    "title": {
-      "ja": "払暁への揺り籠",
-      "en": "Starfall Hill XIX",
-      "zh-Hans": "星落之丘 XIX",
-      "zh-Hant": "星落之丘 XIX",
-      "ko": "별이 내리는 언덕 XIX",
-      "es": "Colina de estrellas fugaces XIX"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_19.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_19.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
-    "duration_sec": 166,
-    "sha256": "d7c9c84d9f84b68d7ec77b345d26815eac8fa562cf932a25b59305f4229f9ebe",
-    "bpm": 50,
-    "mood": [
-      "dreamy",
-      "sparse",
-      "night"
-    ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2762s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:03.131704+00:00"
-  },
-  {
-    "track_id": "rht_20261025_starfall_hill_20",
-    "episode_id": "20261025_starfall_hill",
-    "order": 20,
-    "title": {
-      "ja": "終わりのない静謐",
-      "en": "Starfall Hill XX",
-      "zh-Hans": "星落之丘 XX",
-      "zh-Hant": "星落之丘 XX",
-      "ko": "별이 내리는 언덕 XX",
-      "es": "Colina de estrellas fugaces XX"
-    },
-    "episode_title": {
-      "ja": "星降る丘",
-      "en": "Starfall Hill",
-      "zh-Hans": "星落之丘",
-      "zh-Hant": "星落之丘",
-      "ko": "별이 내리는 언덕",
-      "es": "Colina de estrellas fugaces"
-    },
-    "theme_id": "starfall_hill",
-    "file": "tracks/rht_20261025_starfall_hill_20.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_starfall_hill/rht_20261025_starfall_hill_20.m4a",
-    "cover": "covers/20261025_starfall_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_starfall_hill.jpg",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_04.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_04.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
     "duration_sec": 165,
-    "sha256": "e7c1352be210fcf4f5a7114ab482b918a350ca25bf04df8c78a3153bf3d9f283",
-    "bpm": 50,
+    "sha256": "cd1f6ddd0b2e6bf8cb93cbb653ce4b5b6375387fd5b1438667ea848b28e071c7",
+    "bpm": 55,
     "mood": [
+      "nostalgic",
       "dreamy",
-      "sparse",
-      "night"
+      "bittersweet"
     ],
-    "youtube_video_id": "FfdmHsPUmcc",
-    "youtube_url": "https://www.youtube.com/watch?v=FfdmHsPUmcc&t=2921s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=467s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:31:03.215658+00:00"
+    "created_at": "2026-11-22T08:13:28.803267+00:00"
   },
   {
-    "track_id": "rht_20261025_rain_at_the_old_inn_01",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 1,
-    "title": {
-      "ja": "薄暮の境界",
-      "en": "Rain at the Old Inn I",
-      "zh-Hans": "老客栈听雨 I",
-      "zh-Hant": "老客棧聽雨 I",
-      "ko": "오래된 여관의 빗소리 I",
-      "es": "Lluvia en la vieja posada I"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_01.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_01.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 157,
-    "sha256": "5e3345a8dc5c4a93d3a93caea6dc1eb124b5235a2659b57f64d3f14e306bf1f2",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=0s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:26.578560+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_02",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 2,
-    "title": {
-      "ja": "軒端の滴",
-      "en": "Rain at the Old Inn II",
-      "zh-Hans": "老客栈听雨 II",
-      "zh-Hant": "老客棧聽雨 II",
-      "ko": "오래된 여관의 빗소리 II",
-      "es": "Lluvia en la vieja posada II"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_02.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_02.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 176,
-    "sha256": "627c92f22e7f3ee00a4005c07f17e4f04671e8544b2ce4a349dafd6a9ed1602f",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=157s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:26.875970+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_03",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 3,
-    "title": {
-      "ja": "苔庭を濡らす藍",
-      "en": "Rain at the Old Inn III",
-      "zh-Hans": "老客栈听雨 III",
-      "zh-Hant": "老客棧聽雨 III",
-      "ko": "오래된 여관의 빗소리 III",
-      "es": "Lluvia en la vieja posada III"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_03.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_03.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 161,
-    "sha256": "45a8df1cf6448fd5b9953237cbc1ef86c2618de50a8bcdbd5ea5ebb64d9d7550",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=325s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:27.167717+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_04",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 4,
-    "title": {
-      "ja": "古びた畳の呼吸",
-      "en": "Rain at the Old Inn IV",
-      "zh-Hans": "老客栈听雨 IV",
-      "zh-Hant": "老客棧聽雨 IV",
-      "ko": "오래된 여관의 빗소리 IV",
-      "es": "Lluvia en la vieja posada IV"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_04.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_04.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 173,
-    "sha256": "050b4958b958e0b0adb5f66dceb7a5a204e5c25fe80467205c746b046cd15c49",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=478s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:27.472074+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_05",
-    "episode_id": "20261025_rain_at_the_old_inn",
+    "track_id": "rht_20261026_between_dreams_and_memories_05",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 5,
     "title": {
-      "ja": "閑寂なる客間",
-      "en": "Rain at the Old Inn V",
-      "zh-Hans": "老客栈听雨 V",
-      "zh-Hant": "老客棧聽雨 V",
-      "ko": "오래된 여관의 빗소리 V",
-      "es": "Lluvia en la vieja posada V"
+      "ja": "瑠璃色の残響",
+      "en": "Between Dreams and Memories V",
+      "zh-Hans": "梦与回忆之间 V",
+      "zh-Hant": "夢與回憶之間 V",
+      "ko": "꿈과 기억 사이 V",
+      "es": "Entre sueños y recuerdos V"
     },
     "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_05.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_05.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 172,
-    "sha256": "b27116f578243b6f69a666a31ec9bdcd7560c15ae3fbe836066dd2c3ce7a07d1",
-    "bpm": 60,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_05.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_05.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 175,
+    "sha256": "ee543ef92e82eb7b4b189f95e6faf2758245e4a5394e95ddcbc748a5fab30e76",
+    "bpm": 55,
     "mood": [
-      "cozy",
-      "rain",
-      "night"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=643s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=624s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:27.803224+00:00"
+    "created_at": "2026-11-22T08:13:29.608046+00:00"
   },
   {
-    "track_id": "rht_20261025_rain_at_the_old_inn_06",
-    "episode_id": "20261025_rain_at_the_old_inn",
+    "track_id": "rht_20261026_between_dreams_and_memories_06",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 6,
     "title": {
-      "ja": "遠雷と茶の湯気",
-      "en": "Rain at the Old Inn VI",
-      "zh-Hans": "老客栈听雨 VI",
-      "zh-Hant": "老客棧聽雨 VI",
-      "ko": "오래된 여관의 빗소리 VI",
-      "es": "Lluvia en la vieja posada VI"
+      "ja": "凪いだ意識の海",
+      "en": "Between Dreams and Memories VI",
+      "zh-Hans": "梦与回忆之间 VI",
+      "zh-Hant": "夢與回憶之間 VI",
+      "ko": "꿈과 기억 사이 VI",
+      "es": "Entre sueños y recuerdos VI"
     },
     "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_06.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_06.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 171,
-    "sha256": "7917ff2f9259b0c535a9242c259cc6cfa1fbd93102daef5fed67b09a981bc389",
-    "bpm": 60,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_06.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_06.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 167,
+    "sha256": "156fb70eb88cbb99c78c510e32107b73908bdad38f9cb0db2b1710e7331bb101",
+    "bpm": 55,
     "mood": [
-      "cozy",
-      "rain",
-      "night"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=807s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=791s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:28.062637+00:00"
+    "created_at": "2026-11-22T08:13:30.506057+00:00"
   },
   {
-    "track_id": "rht_20261025_rain_at_the_old_inn_07",
-    "episode_id": "20261025_rain_at_the_old_inn",
+    "track_id": "rht_20261026_between_dreams_and_memories_07",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 7,
     "title": {
-      "ja": "夕闇に溶ける山際",
-      "en": "Rain at the Old Inn VII",
-      "zh-Hans": "老客栈听雨 VII",
-      "zh-Hant": "老客棧聽雨 VII",
-      "ko": "오래된 여관의 빗소리 VII",
-      "es": "Lluvia en la vieja posada VII"
+      "ja": "遠い日の風音",
+      "en": "Between Dreams and Memories VII",
+      "zh-Hans": "梦与回忆之间 VII",
+      "zh-Hant": "夢與回憶之間 VII",
+      "ko": "꿈과 기억 사이 VII",
+      "es": "Entre sueños y recuerdos VII"
     },
     "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_07.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_07.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 180,
-    "sha256": "8adf83087212696be1bd2c4d1a5a47c3219d7864673264538283639728beb7c7",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=970s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:28.371415+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_08",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 8,
-    "title": {
-      "ja": "灯籠の微光",
-      "en": "Rain at the Old Inn VIII",
-      "zh-Hans": "老客栈听雨 VIII",
-      "zh-Hant": "老客棧聽雨 VIII",
-      "ko": "오래된 여관의 빗소리 VIII",
-      "es": "Lluvia en la vieja posada VIII"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_08.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_08.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 171,
-    "sha256": "28ff41a122bb1565392d7f4252ef61eb8378c58cc0993ac193ce3887c56c1268",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1142s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:28.838018+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_09",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 9,
-    "title": {
-      "ja": "雨音の帳",
-      "en": "Rain at the Old Inn IX",
-      "zh-Hans": "老客栈听雨 IX",
-      "zh-Hant": "老客棧聽雨 IX",
-      "ko": "오래된 여관의 빗소리 IX",
-      "es": "Lluvia en la vieja posada IX"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_09.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_09.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 171,
-    "sha256": "3fb58be4590d356e4f7eed662b7ea35c05b0ab40a03e9ac0b14b11b8c82230b7",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1304s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:29.092690+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_10",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 10,
-    "title": {
-      "ja": "内なる水の対話",
-      "en": "Rain at the Old Inn X",
-      "zh-Hans": "老客栈听雨 X",
-      "zh-Hant": "老客棧聽雨 X",
-      "ko": "오래된 여관의 빗소리 X",
-      "es": "Lluvia en la vieja posada X"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_10.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_10.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 163,
-    "sha256": "bd6ca25355c5858d36cc82a3631e21d0faba320e0cf685e4ca3d028046d14eb4",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1467s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:29.412335+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_11",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 11,
-    "title": {
-      "ja": "宵闇の寝処",
-      "en": "Rain at the Old Inn XI",
-      "zh-Hans": "老客栈听雨 XI",
-      "zh-Hant": "老客棧聽雨 XI",
-      "ko": "오래된 여관의 빗소리 XI",
-      "es": "Lluvia en la vieja posada XI"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_11.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_11.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 172,
-    "sha256": "1e415bee6d8cd2fc1f398d852c63e126bc6c82d061e8e4477aa5ccf5ccb2e4f2",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1623s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:29.692622+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_12",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 12,
-    "title": {
-      "ja": "風鈴の消えぬ余韻",
-      "en": "Rain at the Old Inn XII",
-      "zh-Hans": "老客栈听雨 XII",
-      "zh-Hant": "老客棧聽雨 XII",
-      "ko": "오래된 여관의 빗소리 XII",
-      "es": "Lluvia en la vieja posada XII"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_12.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_12.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 174,
-    "sha256": "0aa1a7fb9801cac1a3b6f2e89811cd1950106cdf9578bcee209ef03112a1de89",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1787s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:29.980415+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_13",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 13,
-    "title": {
-      "ja": "微睡みの縁側",
-      "en": "Rain at the Old Inn XIII",
-      "zh-Hans": "老客栈听雨 XIII",
-      "zh-Hant": "老客棧聽雨 XIII",
-      "ko": "오래된 여관의 빗소리 XIII",
-      "es": "Lluvia en la vieja posada XIII"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_13.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_13.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 173,
-    "sha256": "099672e5517df0c01d0a93e946abf66422936834aff6d95fb6672fc8dcb77352",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=1953s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:30.463290+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_14",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 14,
-    "title": {
-      "ja": "朧月と雲の層",
-      "en": "Rain at the Old Inn XIV",
-      "zh-Hans": "老客栈听雨 XIV",
-      "zh-Hant": "老客棧聽雨 XIV",
-      "ko": "오래된 여관의 빗소리 XIV",
-      "es": "Lluvia en la vieja posada XIV"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_14.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_14.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 178,
-    "sha256": "ded13a46c071806c71fb6289e7d5e3a8da154da08b84653fbe04cd129692cf91",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2118s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:30.805377+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_15",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 15,
-    "title": {
-      "ja": "夢路への小舟",
-      "en": "Rain at the Old Inn XV",
-      "zh-Hans": "老客栈听雨 XV",
-      "zh-Hant": "老客棧聽雨 XV",
-      "ko": "오래된 여관의 빗소리 XV",
-      "es": "Lluvia en la vieja posada XV"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_15.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_15.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 155,
-    "sha256": "30d429cbdc32b4554d5f7865f02e847e13988cbdf454cc481a7650448f28a6a0",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2288s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:31.289651+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_16",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 16,
-    "title": {
-      "ja": "万象の沈黙",
-      "en": "Rain at the Old Inn XVI",
-      "zh-Hans": "老客栈听雨 XVI",
-      "zh-Hant": "老客棧聽雨 XVI",
-      "ko": "오래된 여관의 빗소리 XVI",
-      "es": "Lluvia en la vieja posada XVI"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_16.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_16.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 169,
-    "sha256": "8e7d693eb4ea73872b4ebeb2255dd110a0872c09ab0e6ee9cf60f5606ee26198",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2436s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:31.633449+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_17",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 17,
-    "title": {
-      "ja": "慈雨の追憶",
-      "en": "Rain at the Old Inn XVII",
-      "zh-Hans": "老客栈听雨 XVII",
-      "zh-Hant": "老客棧聽雨 XVII",
-      "ko": "오래된 여관의 빗소리 XVII",
-      "es": "Lluvia en la vieja posada XVII"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_17.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_17.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 175,
-    "sha256": "9b7b876ff735f2ffeb09132a248219249cfc4ed438330947fdcc91ab32a3184a",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2597s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:31.996533+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_18",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 18,
-    "title": {
-      "ja": "魂を洗う雫",
-      "en": "Rain at the Old Inn XVIII",
-      "zh-Hans": "老客栈听雨 XVIII",
-      "zh-Hant": "老客棧聽雨 XVIII",
-      "ko": "오래된 여관의 빗소리 XVIII",
-      "es": "Lluvia en la vieja posada XVIII"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_18.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_18.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 177,
-    "sha256": "ca3582f4b30d637f7added94b9c170542a5fcea993619db497d35cec3a5d258b",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2764s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:32.363609+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_19",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 19,
-    "title": {
-      "ja": "深淵なる安らぎ",
-      "en": "Rain at the Old Inn XIX",
-      "zh-Hans": "老客栈听雨 XIX",
-      "zh-Hant": "老客棧聽雨 XIX",
-      "ko": "오래된 여관의 빗소리 XIX",
-      "es": "Lluvia en la vieja posada XIX"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_19.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_19.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 175,
-    "sha256": "d0fb7910430171f17faf9d9ca5a348bb739485a3e782c3c2fc1051af31a9cfc4",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=2934s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:32.634562+00:00"
-  },
-  {
-    "track_id": "rht_20261025_rain_at_the_old_inn_20",
-    "episode_id": "20261025_rain_at_the_old_inn",
-    "order": 20,
-    "title": {
-      "ja": "朝靄への序曲",
-      "en": "Rain at the Old Inn XX",
-      "zh-Hans": "老客栈听雨 XX",
-      "zh-Hant": "老客棧聽雨 XX",
-      "ko": "오래된 여관의 빗소리 XX",
-      "es": "Lluvia en la vieja posada XX"
-    },
-    "episode_title": {
-      "ja": "雨の旅籠",
-      "en": "Rain at the Old Inn",
-      "zh-Hans": "老客栈听雨",
-      "zh-Hant": "老客棧聽雨",
-      "ko": "오래된 여관의 빗소리",
-      "es": "Lluvia en la vieja posada"
-    },
-    "theme_id": "rain_at_the_old_inn",
-    "file": "tracks/rht_20261025_rain_at_the_old_inn_20.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261025_rain_at_the_old_inn/rht_20261025_rain_at_the_old_inn_20.m4a",
-    "cover": "covers/20261025_rain_at_the_old_inn.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261025_rain_at_the_old_inn.jpg",
-    "duration_sec": 175,
-    "sha256": "9604d9eb446703fca93c5a78003b097dcb24bec2032a29b6fd855472f690f970",
-    "bpm": 60,
-    "mood": [
-      "cozy",
-      "rain",
-      "night"
-    ],
-    "youtube_video_id": "weq2OPhdTjs",
-    "youtube_url": "https://www.youtube.com/watch?v=weq2OPhdTjs&t=3101s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:30:32.912713+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_01",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 1,
-    "title": {
-      "ja": "微風の訪れ",
-      "en": "Call of the Distant Wind I",
-      "zh-Hans": "远风的呼唤 I",
-      "zh-Hant": "遠風的呼喚 I",
-      "ko": "아득한 바람의 부름 I",
-      "es": "La llamada del viento lejano I"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_01.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_01.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 174,
-    "sha256": "947ef24b980f73561cc6cf7d8cb05f4b5020fc53bbd668780b8924dd416af158",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=0s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:53.469894+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_02",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 2,
-    "title": {
-      "ja": "茜さす境界",
-      "en": "Call of the Distant Wind II",
-      "zh-Hans": "远风的呼唤 II",
-      "zh-Hant": "遠風的呼喚 II",
-      "ko": "아득한 바람의 부름 II",
-      "es": "La llamada del viento lejano II"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_02.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_02.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 177,
-    "sha256": "7cb5467470b79f31ad7a7d4f7448f6f2a5c43791ffc564b1f2bd2695005efb2b",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=174s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:53.796303+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_03",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 3,
-    "title": {
-      "ja": "暮れゆく記憶の輪郭",
-      "en": "Call of the Distant Wind III",
-      "zh-Hans": "远风的呼唤 III",
-      "zh-Hant": "遠風的呼喚 III",
-      "ko": "아득한 바람의 부름 III",
-      "es": "La llamada del viento lejano III"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_03.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_03.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 163,
-    "sha256": "4fb678ada08f13823d529d9bcfc986e6c86b1aeb1b7adf93fb0c79068e095f55",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=343s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:54.168050+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_04",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 4,
-    "title": {
-      "ja": "静寂の呼吸",
-      "en": "Call of the Distant Wind IV",
-      "zh-Hans": "远风的呼唤 IV",
-      "zh-Hant": "遠風的呼喚 IV",
-      "ko": "아득한 바람의 부름 IV",
-      "es": "La llamada del viento lejano IV"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_04.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_04.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 157,
-    "sha256": "c6670b5732dfecf8f38013174b6f641f6dafb3b3ed63f54ec449c6622eba6b60",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=497s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:54.460767+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_05",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 5,
-    "title": {
-      "ja": "星の雫、夜の始まり",
-      "en": "Call of the Distant Wind V",
-      "zh-Hans": "远风的呼唤 V",
-      "zh-Hant": "遠風的呼喚 V",
-      "ko": "아득한 바람의 부름 V",
-      "es": "La llamada del viento lejano V"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_05.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_05.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 138,
-    "sha256": "bde6bcb8e6cc060978938f1c15292514eadc884001df8fea15300fe8f495bf3b",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=647s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:54.775553+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_06",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 6,
-    "title": {
-      "ja": "追憶の風鈴",
-      "en": "Call of the Distant Wind VI",
-      "zh-Hans": "远风的呼唤 VI",
-      "zh-Hant": "遠風的呼喚 VI",
-      "ko": "아득한 바람의 부름 VI",
-      "es": "La llamada del viento lejano VI"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_06.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_06.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 178,
-    "sha256": "12bd1d0960419f076b1c9e995a25b892507475afe1f46d54e7c2f889349ee9b8",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=777s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:55.135231+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_07",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 7,
-    "title": {
-      "ja": "水面に沈む残光",
-      "en": "Call of the Distant Wind VII",
-      "zh-Hans": "远风的呼唤 VII",
-      "zh-Hant": "遠風的呼喚 VII",
-      "ko": "아득한 바람의 부름 VII",
-      "es": "La llamada del viento lejano VII"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_07.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_07.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 175,
-    "sha256": "898d5d2e577bd3755d2a5311b6f65f90d5f018f64cf98ec67927b2660119acf9",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=947s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:55.560094+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_08",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 8,
-    "title": {
-      "ja": "月の揺籃曲",
-      "en": "Call of the Distant Wind VIII",
-      "zh-Hans": "远风的呼唤 VIII",
-      "zh-Hant": "遠風的呼喚 VIII",
-      "ko": "아득한 바람의 부름 VIII",
-      "es": "La llamada del viento lejano VIII"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_08.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_08.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 175,
-    "sha256": "3cc643cc8bdca6ac1316116c2b42dcccd3e6746069e014fd17afbca77b8546f2",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1114s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:55.879054+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_09",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 9,
-    "title": {
-      "ja": "森の深淵で眠る",
-      "en": "Call of the Distant Wind IX",
-      "zh-Hans": "远风的呼唤 IX",
-      "zh-Hant": "遠風的呼喚 IX",
-      "ko": "아득한 바람의 부름 IX",
-      "es": "La llamada del viento lejano IX"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_09.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_09.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 170,
-    "sha256": "549e897e0197250eeb74e62e2c95b9ab0069241bfc6730dee4a5d9371985377f",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1281s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:56.313818+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_10",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 10,
-    "title": {
-      "ja": "雲の切れ間の祈り",
-      "en": "Call of the Distant Wind X",
-      "zh-Hans": "远风的呼唤 X",
-      "zh-Hant": "遠風的呼喚 X",
-      "ko": "아득한 바람의 부름 X",
-      "es": "La llamada del viento lejano X"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_10.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_10.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 154,
-    "sha256": "e14dbf06470b7d1e8d6161c3299d249ca17d64275972efd5c742196f18682246",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1443s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:56.603103+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_11",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 11,
-    "title": {
-      "ja": "遠き笛の音に寄せて",
-      "en": "Call of the Distant Wind XI",
-      "zh-Hans": "远风的呼唤 XI",
-      "zh-Hant": "遠風的呼喚 XI",
-      "ko": "아득한 바람의 부름 XI",
-      "es": "La llamada del viento lejano XI"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_11.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_11.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 174,
-    "sha256": "947b69d9ed82f535a1cc802cec7b3a08a406f021ce300e54ad63d8fc3cf3a3e8",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1589s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:56.904006+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_12",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 12,
-    "title": {
-      "ja": "漂う意識の断片",
-      "en": "Call of the Distant Wind XII",
-      "zh-Hans": "远风的呼唤 XII",
-      "zh-Hant": "遠風的呼喚 XII",
-      "ko": "아득한 바람의 부름 XII",
-      "es": "La llamada del viento lejano XII"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_12.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_12.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_07.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_07.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
     "duration_sec": 159,
-    "sha256": "d740418360c43f202d8d13dd0afecaff3e0d3e60ecef15347f211fc28c3e249d",
+    "sha256": "211171147f6c57b69e2ea97793117c374c0cb9049272818a0ff60c5e64871f01",
     "bpm": 55,
     "mood": [
-      "airy",
-      "vast",
-      "mysterious"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1755s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=950s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:57.192554+00:00"
+    "created_at": "2026-11-22T08:13:31.597089+00:00"
   },
   {
-    "track_id": "rht_20261023_call_of_the_distant_wind_13",
-    "episode_id": "20261023_call_of_the_distant_wind",
+    "track_id": "rht_20261026_between_dreams_and_memories_08",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 8,
+    "title": {
+      "ja": "夕闇の回廊",
+      "en": "Between Dreams and Memories VIII",
+      "zh-Hans": "梦与回忆之间 VIII",
+      "zh-Hant": "夢與回憶之間 VIII",
+      "ko": "꿈과 기억 사이 VIII",
+      "es": "Entre sueños y recuerdos VIII"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_08.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_08.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 170,
+    "sha256": "a0cd61eef5cb464bf810e7c9f7b41cb6340a26810cb25ac7eed6bb5adec092d4",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1101s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:32.626790+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_09",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 9,
+    "title": {
+      "ja": "忘却のほとり",
+      "en": "Between Dreams and Memories IX",
+      "zh-Hans": "梦与回忆之间 IX",
+      "zh-Hant": "夢與回憶之間 IX",
+      "ko": "꿈과 기억 사이 IX",
+      "es": "Entre sueños y recuerdos IX"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_09.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_09.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 179,
+    "sha256": "a63670fda516a743f3af617fce19bb02feafce8b527f666d12920434d370cb5c",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1263s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:33.389487+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_10",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 10,
+    "title": {
+      "ja": "翠緑の瞑想",
+      "en": "Between Dreams and Memories X",
+      "zh-Hans": "梦与回忆之间 X",
+      "zh-Hant": "夢與回憶之間 X",
+      "ko": "꿈과 기억 사이 X",
+      "es": "Entre sueños y recuerdos X"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_10.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_10.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 181,
+    "sha256": "f057954a43a765f00e313f0be02988459d3f90658c8643bbcb716498cd2de545",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1434s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:34.151774+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_11",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 11,
+    "title": {
+      "ja": "降り積もる光の塵",
+      "en": "Between Dreams and Memories XI",
+      "zh-Hans": "梦与回忆之间 XI",
+      "zh-Hant": "夢與回憶之間 XI",
+      "ko": "꿈과 기억 사이 XI",
+      "es": "Entre sueños y recuerdos XI"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_11.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_11.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 153,
+    "sha256": "dcd48b73aad3d6efe01e7d0875b7abf1d26e7432de606df1aa7a78573227ebba",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1607s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:35.008778+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_12",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 12,
+    "title": {
+      "ja": "幻灯の街路樹",
+      "en": "Between Dreams and Memories XII",
+      "zh-Hans": "梦与回忆之间 XII",
+      "zh-Hant": "夢與回憶之間 XII",
+      "ko": "꿈과 기억 사이 XII",
+      "es": "Entre sueños y recuerdos XII"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_12.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_12.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 173,
+    "sha256": "572794dfca6446fc9387f0e6c82b6dbabf8868a6255836033ded1cb0158a16d6",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1752s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:35.769369+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_13",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 13,
     "title": {
-      "ja": "宵闇の囁き",
-      "en": "Call of the Distant Wind XIII",
-      "zh-Hans": "远风的呼唤 XIII",
-      "zh-Hant": "遠風的呼喚 XIII",
-      "ko": "아득한 바람의 부름 XIII",
-      "es": "La llamada del viento lejano XIII"
+      "ja": "月の滴とまどろみ",
+      "en": "Between Dreams and Memories XIII",
+      "zh-Hans": "梦与回忆之间 XIII",
+      "zh-Hant": "夢與回憶之間 XIII",
+      "ko": "꿈과 기억 사이 XIII",
+      "es": "Entre sueños y recuerdos XIII"
     },
     "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_13.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_13.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 170,
-    "sha256": "a28674c0066dea7e297a9d798cefdf8870d84b091d6678bc5986ce23fbc75f46",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_13.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_13.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 171,
+    "sha256": "7f8e0e82a410c2c075465fc17657a47c53499fc5750432fa7fb85b9a62c1c5c9",
     "bpm": 55,
     "mood": [
-      "airy",
-      "vast",
-      "mysterious"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=1907s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=1916s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:57.512634+00:00"
+    "created_at": "2026-11-22T08:13:36.702498+00:00"
   },
   {
-    "track_id": "rht_20261023_call_of_the_distant_wind_14",
-    "episode_id": "20261023_call_of_the_distant_wind",
+    "track_id": "rht_20261026_between_dreams_and_memories_14",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 14,
     "title": {
-      "ja": "凪いだ時間の庭",
-      "en": "Call of the Distant Wind XIV",
-      "zh-Hans": "远风的呼唤 XIV",
-      "zh-Hant": "遠風的呼喚 XIV",
-      "ko": "아득한 바람의 부름 XIV",
-      "es": "La llamada del viento lejano XIV"
+      "ja": "追憶の波紋",
+      "en": "Between Dreams and Memories XIV",
+      "zh-Hans": "梦与回忆之间 XIV",
+      "zh-Hant": "夢與回憶之間 XIV",
+      "ko": "꿈과 기억 사이 XIV",
+      "es": "Entre sueños y recuerdos XIV"
     },
     "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_14.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_14.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 178,
-    "sha256": "b27b83d7308981a101d97a816ecc450f3070e5a45ecce8e013d8536ebaecdeb4",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_14.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_14.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 158,
+    "sha256": "38b8ea9ecec7636e5767e92e708f82c227c5d544b4678133fd4ca4433d1febec",
     "bpm": 55,
     "mood": [
-      "airy",
-      "vast",
-      "mysterious"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2069s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2079s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:57.993215+00:00"
+    "created_at": "2026-11-22T08:13:37.556473+00:00"
   },
   {
-    "track_id": "rht_20261023_call_of_the_distant_wind_15",
-    "episode_id": "20261023_call_of_the_distant_wind",
+    "track_id": "rht_20261026_between_dreams_and_memories_15",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 15,
     "title": {
-      "ja": "夢路を辿る風",
-      "en": "Call of the Distant Wind XV",
-      "zh-Hans": "远风的呼唤 XV",
-      "zh-Hant": "遠風的呼喚 XV",
-      "ko": "아득한 바람의 부름 XV",
-      "es": "La llamada del viento lejano XV"
+      "ja": "夢の残り香",
+      "en": "Between Dreams and Memories XV",
+      "zh-Hans": "梦与回忆之间 XV",
+      "zh-Hant": "夢與回憶之間 XV",
+      "ko": "꿈과 기억 사이 XV",
+      "es": "Entre sueños y recuerdos XV"
     },
     "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_15.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_15.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 160,
-    "sha256": "6341b3f375c81c7226bb4d3c87e2f84ba508f91305b2894a7de7e8383fff44cc",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_15.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_15.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 167,
+    "sha256": "f8a3fdb858b808a50516c3cd3d2f5f2efbdfaa0d1ec2143b0c0fdf8f068388e2",
     "bpm": 55,
     "mood": [
-      "airy",
-      "vast",
-      "mysterious"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2239s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2229s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:58.298383+00:00"
+    "created_at": "2026-11-22T08:13:38.339831+00:00"
   },
   {
-    "track_id": "rht_20261023_call_of_the_distant_wind_16",
-    "episode_id": "20261023_call_of_the_distant_wind",
+    "track_id": "rht_20261026_between_dreams_and_memories_16",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 16,
     "title": {
-      "ja": "透き通る孤独",
-      "en": "Call of the Distant Wind XVI",
-      "zh-Hans": "远风的呼唤 XVI",
-      "zh-Hant": "遠風的呼喚 XVI",
-      "ko": "아득한 바람의 부름 XVI",
-      "es": "La llamada del viento lejano XVI"
+      "ja": "夜を編む静謐",
+      "en": "Between Dreams and Memories XVI",
+      "zh-Hans": "梦与回忆之间 XVI",
+      "zh-Hant": "夢與回憶之間 XVI",
+      "ko": "꿈과 기억 사이 XVI",
+      "es": "Entre sueños y recuerdos XVI"
     },
     "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_16.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_16.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 178,
-    "sha256": "e38432bb90b7608c35a55596ee642e67ccaae6b734372055e4bd96eaceb4405c",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_16.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_16.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 180,
+    "sha256": "06b3666404ca24339b266b1c2a43d6316863c50dab223aaed362c6c45610db56",
     "bpm": 55,
     "mood": [
-      "airy",
-      "vast",
-      "mysterious"
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2391s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2389s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:58.636232+00:00"
+    "created_at": "2026-11-22T08:13:39.098272+00:00"
   },
   {
-    "track_id": "rht_20261023_call_of_the_distant_wind_17",
-    "episode_id": "20261023_call_of_the_distant_wind",
+    "track_id": "rht_20261026_between_dreams_and_memories_17",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 17,
+    "title": {
+      "ja": "霧に溶ける輪郭",
+      "en": "Between Dreams and Memories XVII",
+      "zh-Hans": "梦与回忆之间 XVII",
+      "zh-Hant": "夢與回憶之間 XVII",
+      "ko": "꿈과 기억 사이 XVII",
+      "es": "Entre sueños y recuerdos XVII"
+    },
+    "episode_title": {
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
+    },
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_17.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_17.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 149,
+    "sha256": "ded581026c6e4205446633f15a077ffd78a5652d0b04cc1dbda9518f564c5e32",
+    "bpm": 55,
+    "mood": [
+      "nostalgic",
+      "dreamy",
+      "bittersweet"
+    ],
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2560s",
+    "ai_generated": true,
+    "model": "lyria-3.5",
+    "created_at": "2026-11-22T08:13:39.891180+00:00"
+  },
+  {
+    "track_id": "rht_20261026_between_dreams_and_memories_18",
+    "episode_id": "20261026_between_dreams_and_memories",
+    "order": 18,
     "title": {
       "ja": "悠久の眠りへ",
-      "en": "Call of the Distant Wind XVII",
-      "zh-Hans": "远风的呼唤 XVII",
-      "zh-Hant": "遠風的呼喚 XVII",
-      "ko": "아득한 바람의 부름 XVII",
-      "es": "La llamada del viento lejano XVII"
+      "en": "Between Dreams and Memories XVIII",
+      "zh-Hans": "梦与回忆之间 XVIII",
+      "zh-Hant": "夢與回憶之間 XVIII",
+      "ko": "꿈과 기억 사이 XVIII",
+      "es": "Entre sueños y recuerdos XVIII"
     },
     "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_17.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_17.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 176,
-    "sha256": "d0c200c5713d57b9dd44ebf00189833c9dd013c41e524153e5e950644a3811fa",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2561s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:58.909559+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_18",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 18,
-    "title": {
-      "ja": "夜露の瞑想",
-      "en": "Call of the Distant Wind XVIII",
-      "zh-Hans": "远风的呼唤 XVIII",
-      "zh-Hant": "遠風的呼喚 XVIII",
-      "ko": "아득한 바람의 부름 XVIII",
-      "es": "La llamada del viento lejano XVIII"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_18.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_18.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 178,
-    "sha256": "0bcb0628d9d98529b4cffa35d562e2dd8d217976b3fd1b4c71bea755a6d55cab",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2729s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:59.201425+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_19",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 19,
-    "title": {
-      "ja": "忘却の向こう側",
-      "en": "Call of the Distant Wind XIX",
-      "zh-Hans": "远风的呼唤 XIX",
-      "zh-Hant": "遠風的呼喚 XIX",
-      "ko": "아득한 바람의 부름 XIX",
-      "es": "La llamada del viento lejano XIX"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_19.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_19.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 165,
-    "sha256": "15fe1e43085abd9018da1263de7a57d6b540b5d53df465e704d953c30054a845",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=2899s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:59.501599+00:00"
-  },
-  {
-    "track_id": "rht_20261023_call_of_the_distant_wind_20",
-    "episode_id": "20261023_call_of_the_distant_wind",
-    "order": 20,
-    "title": {
-      "ja": "黎明への序曲",
-      "en": "Call of the Distant Wind XX",
-      "zh-Hans": "远风的呼唤 XX",
-      "zh-Hant": "遠風的呼喚 XX",
-      "ko": "아득한 바람의 부름 XX",
-      "es": "La llamada del viento lejano XX"
-    },
-    "episode_title": {
-      "ja": "遠い風の呼び声",
-      "en": "Call of the Distant Wind",
-      "zh-Hans": "远风的呼唤",
-      "zh-Hant": "遠風的呼喚",
-      "ko": "아득한 바람의 부름",
-      "es": "La llamada del viento lejano"
-    },
-    "theme_id": "call_of_the_distant_wind",
-    "file": "tracks/rht_20261023_call_of_the_distant_wind_20.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261023_call_of_the_distant_wind/rht_20261023_call_of_the_distant_wind_20.m4a",
-    "cover": "covers/20261023_call_of_the_distant_wind.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261023_call_of_the_distant_wind.jpg",
-    "duration_sec": 170,
-    "sha256": "295488e60da7903b49483c89489b3a339c8d9e509b3c6ea4d53469338ace8cde",
-    "bpm": 55,
-    "mood": [
-      "airy",
-      "vast",
-      "mysterious"
-    ],
-    "youtube_video_id": "-y-Rp4Rgu9M",
-    "youtube_url": "https://www.youtube.com/watch?v=-y-Rp4Rgu9M&t=3056s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:59.759240+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_01",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 1,
-    "title": {
-      "ja": "紅の息吹",
-      "en": "Dusk on Red Hill I",
-      "zh-Hans": "红山暮色 I",
-      "zh-Hant": "紅山暮色 I",
-      "ko": "레드힐의 저녁노을 I",
-      "es": "Atardecer en la Colina Roja I"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_01.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_01.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 175,
-    "sha256": "848e8c1f7c6ac0230aebd64d6461a32aa71b63766551359b0e7c76ceab77846f",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=0s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:21.760944+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_02",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 2,
-    "title": {
-      "ja": "黄金の稜線",
-      "en": "Dusk on Red Hill II",
-      "zh-Hans": "红山暮色 II",
-      "zh-Hant": "紅山暮色 II",
-      "ko": "레드힐의 저녁노을 II",
-      "es": "Atardecer en la Colina Roja II"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_02.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_02.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 169,
-    "sha256": "401bbbf2f54003e7e11ea6cab10aa329624e03da4b8cca7c20abac2dcf1aa481",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=175s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:22.043568+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_03",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 3,
-    "title": {
-      "ja": "静寂が降り積もる",
-      "en": "Dusk on Red Hill III",
-      "zh-Hans": "红山暮色 III",
-      "zh-Hant": "紅山暮色 III",
-      "ko": "레드힐의 저녁노을 III",
-      "es": "Atardecer en la Colina Roja III"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_03.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_03.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 157,
-    "sha256": "56066b303563788668081ade644793cee5106f50f437b1e17eee7363b358b7c9",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=336s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:22.306889+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_04",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 4,
-    "title": {
-      "ja": "薄暮の瞑想",
-      "en": "Dusk on Red Hill IV",
-      "zh-Hans": "红山暮色 IV",
-      "zh-Hant": "紅山暮色 IV",
-      "ko": "레드힐의 저녁노을 IV",
-      "es": "Atardecer en la Colina Roja IV"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_04.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_04.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 166,
-    "sha256": "69a1d14079fd230ff68c380b3ddb24140665361ed1e7dd0bb295bd54251a0ec3",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=485s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:22.593222+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_05",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 5,
-    "title": {
-      "ja": "たゆたう雲海",
-      "en": "Dusk on Red Hill V",
-      "zh-Hans": "红山暮色 V",
-      "zh-Hant": "紅山暮色 V",
-      "ko": "레드힐의 저녁노을 V",
-      "es": "Atardecer en la Colina Roja V"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_05.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_05.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 181,
-    "sha256": "ec07762f6032668ab2807468d4d189a1e07e17667531184f3bee3acf0bc112df",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=643s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:22.852416+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_06",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 6,
-    "title": {
-      "ja": "茜さす谷間",
-      "en": "Dusk on Red Hill VI",
-      "zh-Hans": "红山暮色 VI",
-      "zh-Hant": "紅山暮色 VI",
-      "ko": "레드힐의 저녁노을 VI",
-      "es": "Atardecer en la Colina Roja VI"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_06.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_06.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 155,
-    "sha256": "aa3c09ca715a3aa202abc05c657d0fa3929d61551466d15f7810b0357bd088f1",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=817s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:23.110862+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_07",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 7,
-    "title": {
-      "ja": "風の忘れ物",
-      "en": "Dusk on Red Hill VII",
-      "zh-Hans": "红山暮色 VII",
-      "zh-Hant": "紅山暮色 VII",
-      "ko": "레드힐의 저녁노을 VII",
-      "es": "Atardecer en la Colina Roja VII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_07.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_07.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_18.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_18.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
     "duration_sec": 171,
-    "sha256": "18d50b511a4467e7277bb25e8d0c528aae44a236496f890afccde08e2bea4c48",
-    "bpm": 60,
+    "sha256": "b051f5b099c06092cd47755dd6e1f5803b8bcbc82e7793f9abf82c0f9ee59afa",
+    "bpm": 55,
     "mood": [
-      "warm",
       "nostalgic",
-      "calm"
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=964s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2701s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:23.364334+00:00"
+    "created_at": "2026-11-22T08:13:40.652723+00:00"
   },
   {
-    "track_id": "rht_20261020_dusk_on_red_hill_08",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 8,
-    "title": {
-      "ja": "山嶺の微睡み",
-      "en": "Dusk on Red Hill VIII",
-      "zh-Hans": "红山暮色 VIII",
-      "zh-Hant": "紅山暮色 VIII",
-      "ko": "레드힐의 저녁노을 VIII",
-      "es": "Atardecer en la Colina Roja VIII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_08.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_08.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 172,
-    "sha256": "d7c28e6a9b7e65be0bef50fad5fdc7096a7e8a1fa37e690507e80fa04658367c",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1127s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:23.598912+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_09",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 9,
-    "title": {
-      "ja": "紫の帳が下りる時",
-      "en": "Dusk on Red Hill IX",
-      "zh-Hans": "红山暮色 IX",
-      "zh-Hant": "紅山暮色 IX",
-      "ko": "레드힐의 저녁노을 IX",
-      "es": "Atardecer en la Colina Roja IX"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_09.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_09.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 175,
-    "sha256": "52bf66665b7f353780c367e5ffa2d815b4f636ea004e4692c29d139a3f0b67b2",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1291s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:23.910366+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_10",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 10,
-    "title": {
-      "ja": "悠久の残響",
-      "en": "Dusk on Red Hill X",
-      "zh-Hans": "红山暮色 X",
-      "zh-Hant": "紅山暮色 X",
-      "ko": "레드힐의 저녁노을 X",
-      "es": "Atardecer en la Colina Roja X"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_10.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_10.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 177,
-    "sha256": "ae06a6357bbf595e9483da5719e04240ae4b9afee897c126d964f9d0352af2d6",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1458s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:24.286179+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_11",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 11,
-    "title": {
-      "ja": "暮れなずむ森の詩",
-      "en": "Dusk on Red Hill XI",
-      "zh-Hans": "红山暮色 XI",
-      "zh-Hant": "紅山暮色 XI",
-      "ko": "레드힐의 저녁노을 XI",
-      "es": "Atardecer en la Colina Roja XI"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_11.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_11.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 177,
-    "sha256": "96482a56d4768bb7d925df0995e665533ea28dc1b1114481b0a39d8cd1105199",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1626s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:24.533910+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_12",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 12,
-    "title": {
-      "ja": "水平線なき光",
-      "en": "Dusk on Red Hill XII",
-      "zh-Hans": "红山暮色 XII",
-      "zh-Hant": "紅山暮色 XII",
-      "ko": "레드힐의 저녁노을 XII",
-      "es": "Atardecer en la Colina Roja XII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_12.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_12.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 176,
-    "sha256": "ea205e7b8651853de254d60ea45ba8f072621bd233eb190b20c2d8137bf20d6b",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1795s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:24.799839+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_13",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 13,
-    "title": {
-      "ja": "深い呼吸の果て",
-      "en": "Dusk on Red Hill XIII",
-      "zh-Hans": "红山暮色 XIII",
-      "zh-Hant": "紅山暮色 XIII",
-      "ko": "레드힐의 저녁노을 XIII",
-      "es": "Atardecer en la Colina Roja XIII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_13.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_13.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 176,
-    "sha256": "1e5e03ef5f06d48d19800da138c4f6bb13e10f31c51a38785bf299cb6cbd87cb",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=1964s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:25.045918+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_14",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 14,
-    "title": {
-      "ja": "影が溶け合う刻",
-      "en": "Dusk on Red Hill XIV",
-      "zh-Hans": "红山暮色 XIV",
-      "zh-Hant": "紅山暮色 XIV",
-      "ko": "레드힐의 저녁노을 XIV",
-      "es": "Atardecer en la Colina Roja XIV"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_14.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_14.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 172,
-    "sha256": "f95c0220900d80287532ca745f1b99e3a5400fdfc6d6114d98d5289aafa601a0",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2132s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:25.351182+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_15",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 15,
-    "title": {
-      "ja": "眠れる岩肌",
-      "en": "Dusk on Red Hill XV",
-      "zh-Hans": "红山暮色 XV",
-      "zh-Hant": "紅山暮色 XV",
-      "ko": "레드힐의 저녁노을 XV",
-      "es": "Atardecer en la Colina Roja XV"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_15.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_15.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 131,
-    "sha256": "161fb7caeeff631a15f10b9b4eed41e52978ef4228c4426b859b5c5394a7a1a6",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2296s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:25.594891+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_16",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 16,
-    "title": {
-      "ja": "星を待つ静寂",
-      "en": "Dusk on Red Hill XVI",
-      "zh-Hans": "红山暮色 XVI",
-      "zh-Hant": "紅山暮色 XVI",
-      "ko": "레드힐의 저녁노을 XVI",
-      "es": "Atardecer en la Colina Roja XVI"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_16.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_16.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 176,
-    "sha256": "1b8d0d56b4f2777e8d1e285009463fd4a452803945a7e829e635d86a5cc492f2",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2419s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:25.837891+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_17",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 17,
-    "title": {
-      "ja": "紅山に祈りを",
-      "en": "Dusk on Red Hill XVII",
-      "zh-Hans": "红山暮色 XVII",
-      "zh-Hant": "紅山暮色 XVII",
-      "ko": "레드힐의 저녁노을 XVII",
-      "es": "Atardecer en la Colina Roja XVII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_17.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_17.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 167,
-    "sha256": "7f8e8f2d7a9df64ceea2d60c6c12089f011c8dc3c984c3a8635d425cb7cb0d25",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2587s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:26.110100+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_18",
-    "episode_id": "20261020_dusk_on_red_hill",
-    "order": 18,
-    "title": {
-      "ja": "夢幻の境界線",
-      "en": "Dusk on Red Hill XVIII",
-      "zh-Hans": "红山暮色 XVIII",
-      "zh-Hant": "紅山暮色 XVIII",
-      "ko": "레드힐의 저녁노을 XVIII",
-      "es": "Atardecer en la Colina Roja XVIII"
-    },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_18.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_18.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 177,
-    "sha256": "4d1bdf52842521bb94cdf80fb994b6f0246e60d3b955e74c86e65286af9175c6",
-    "bpm": 60,
-    "mood": [
-      "warm",
-      "nostalgic",
-      "calm"
-    ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2746s",
-    "ai_generated": true,
-    "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:26.378078+00:00"
-  },
-  {
-    "track_id": "rht_20261020_dusk_on_red_hill_19",
-    "episode_id": "20261020_dusk_on_red_hill",
+    "track_id": "rht_20261026_between_dreams_and_memories_19",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 19,
     "title": {
-      "ja": "藍色へ移ろう",
-      "en": "Dusk on Red Hill XIX",
-      "zh-Hans": "红山暮色 XIX",
-      "zh-Hant": "紅山暮色 XIX",
-      "ko": "레드힐의 저녁노을 XIX",
-      "es": "Atardecer en la Colina Roja XIX"
+      "ja": "星宿のささやき",
+      "en": "Between Dreams and Memories XIX",
+      "zh-Hans": "梦与回忆之间 XIX",
+      "zh-Hant": "夢與回憶之間 XIX",
+      "ko": "꿈과 기억 사이 XIX",
+      "es": "Entre sueños y recuerdos XIX"
     },
     "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_19.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_19.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 172,
-    "sha256": "d8a71aca4bd957ed290e54cca506cae6c86ceef1fe4b8b0a09c77542b62cba84",
-    "bpm": 60,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_19.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_19.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 180,
+    "sha256": "9aa5037dd46d4d5632a575a67af45debd6ba482a612c130c93657e61aebad3a1",
+    "bpm": 55,
     "mood": [
-      "warm",
       "nostalgic",
-      "calm"
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=2915s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=2864s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:26.673512+00:00"
+    "created_at": "2026-11-22T08:13:41.815117+00:00"
   },
   {
-    "track_id": "rht_20261020_dusk_on_red_hill_20",
-    "episode_id": "20261020_dusk_on_red_hill",
+    "track_id": "rht_20261026_between_dreams_and_memories_20",
+    "episode_id": "20261026_between_dreams_and_memories",
     "order": 20,
     "title": {
-      "ja": "夜の入り口",
-      "en": "Dusk on Red Hill XX",
-      "zh-Hans": "红山暮色 XX",
-      "zh-Hant": "紅山暮色 XX",
-      "ko": "레드힐의 저녁노을 XX",
-      "es": "Atardecer en la Colina Roja XX"
+      "ja": "夜明け前の追想",
+      "en": "Between Dreams and Memories XX",
+      "zh-Hans": "梦与回忆之间 XX",
+      "zh-Hant": "夢與回憶之間 XX",
+      "ko": "꿈과 기억 사이 XX",
+      "es": "Entre sueños y recuerdos XX"
     },
     "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
+      "ja": "夢と記憶のあいだ",
+      "en": "Between Dreams and Memories",
+      "zh-Hans": "梦与回忆之间",
+      "zh-Hant": "夢與回憶之間",
+      "ko": "꿈과 기억 사이",
+      "es": "Entre sueños y recuerdos"
     },
-    "theme_id": "dusk_on_red_hill",
-    "file": "tracks/rht_20261020_dusk_on_red_hill_20.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261020_dusk_on_red_hill/rht_20261020_dusk_on_red_hill_20.m4a",
-    "cover": "covers/20261020_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261020_dusk_on_red_hill.jpg",
-    "duration_sec": 174,
-    "sha256": "f0c55b43b51b329f5549a803bc935501febbd019b39f28d6effee9c7ec55a6f1",
-    "bpm": 60,
+    "theme_id": "between_dreams_and_memories",
+    "file": "tracks/rht_20261026_between_dreams_and_memories_20.m4a",
+    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261026_between_dreams_and_memories/rht_20261026_between_dreams_and_memories_20.m4a",
+    "cover": "covers/20261026_between_dreams_and_memories.jpg",
+    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261026_between_dreams_and_memories.jpg",
+    "duration_sec": 179,
+    "sha256": "122ddfae370196ef6409d841cf6fd099fc853567d843ad35347ed92715d0883c",
+    "bpm": 55,
     "mood": [
-      "warm",
       "nostalgic",
-      "calm"
+      "dreamy",
+      "bittersweet"
     ],
-    "youtube_video_id": "8lIEHiSInw8",
-    "youtube_url": "https://www.youtube.com/watch?v=8lIEHiSInw8&t=3079s",
+    "youtube_video_id": "wDleGEPajHQ",
+    "youtube_url": "https://www.youtube.com/watch?v=wDleGEPajHQ&t=3037s",
     "ai_generated": true,
     "model": "lyria-3.5",
-    "created_at": "2026-10-25T16:29:26.915362+00:00"
+    "created_at": "2026-11-22T08:13:42.902370+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_01",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 1,
     "title": {
       "ja": "紅山の夕暮れ I",
       "en": "Dusk on Red Hill I",
@@ -3170,19 +789,8 @@
       "ko": "레드힐의 저녁노을 I",
       "es": "Atardecer en la Colina Roja I"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_01.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_01.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "cc2c8de58fd6136295689183e715d68492856663ed51dcb421af01ab147cf92c",
     "bpm": 60,
@@ -3195,12 +803,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=0s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:05.896419+00:00"
+    "created_at": "2026-10-19T14:32:09.700939+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_02",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 2,
     "title": {
       "ja": "紅山の夕暮れ II",
       "en": "Dusk on Red Hill II",
@@ -3209,19 +815,8 @@
       "ko": "레드힐의 저녁노을 II",
       "es": "Atardecer en la Colina Roja II"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_02.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_02.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "115d12ff88ce0ed5c203d762b5277a0c83da95fbe69fb7fa2450ee88b085fc17",
     "bpm": 60,
@@ -3234,12 +829,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=120s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:06.183927+00:00"
+    "created_at": "2026-10-19T14:32:09.723260+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_03",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 3,
     "title": {
       "ja": "紅山の夕暮れ III",
       "en": "Dusk on Red Hill III",
@@ -3248,19 +841,8 @@
       "ko": "레드힐의 저녁노을 III",
       "es": "Atardecer en la Colina Roja III"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_03.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_03.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "1593424aafe8b4d734c15c4d69de6497bea596d5beb6611503327cf80638ee4c",
     "bpm": 60,
@@ -3273,12 +855,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=232s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:06.438690+00:00"
+    "created_at": "2026-10-19T14:32:09.745028+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_04",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 4,
     "title": {
       "ja": "紅山の夕暮れ IV",
       "en": "Dusk on Red Hill IV",
@@ -3287,19 +867,8 @@
       "ko": "레드힐의 저녁노을 IV",
       "es": "Atardecer en la Colina Roja IV"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_04.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_04.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "cb3f3ee4be4ac65c53c5bcab183ba3e559bdaa1c5578d24ff0ca13a31e08c700",
     "bpm": 60,
@@ -3312,12 +881,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=344s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:06.710220+00:00"
+    "created_at": "2026-10-19T14:32:09.766284+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_05",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 5,
     "title": {
       "ja": "紅山の夕暮れ V",
       "en": "Dusk on Red Hill V",
@@ -3326,19 +893,8 @@
       "ko": "레드힐의 저녁노을 V",
       "es": "Atardecer en la Colina Roja V"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_05.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_05.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "4bd08f6af3a49ade2f475acb7c7557af5d2625e05cd429240ad2443a8379e8fd",
     "bpm": 60,
@@ -3351,12 +907,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=456s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:06.969144+00:00"
+    "created_at": "2026-10-19T14:32:09.788809+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_06",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 6,
     "title": {
       "ja": "紅山の夕暮れ VI",
       "en": "Dusk on Red Hill VI",
@@ -3365,19 +919,8 @@
       "ko": "레드힐의 저녁노을 VI",
       "es": "Atardecer en la Colina Roja VI"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_06.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_06.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "91065cafa24e924f148b71a89fdfa06e6c7b3b66801bdc4c8b2ebbbaad0b18ce",
     "bpm": 60,
@@ -3390,12 +933,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=568s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:07.206037+00:00"
+    "created_at": "2026-10-19T14:32:09.811365+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_07",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 7,
     "title": {
       "ja": "紅山の夕暮れ VII",
       "en": "Dusk on Red Hill VII",
@@ -3404,19 +945,8 @@
       "ko": "레드힐의 저녁노을 VII",
       "es": "Atardecer en la Colina Roja VII"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_07.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_07.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "2d004af81fa81f816288639c08595764cba1358be8121ea6ffe37bd7db33a514",
     "bpm": 60,
@@ -3429,12 +959,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=680s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:07.453286+00:00"
+    "created_at": "2026-10-19T14:32:09.833540+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_08",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 8,
     "title": {
       "ja": "紅山の夕暮れ VIII",
       "en": "Dusk on Red Hill VIII",
@@ -3443,19 +971,8 @@
       "ko": "레드힐의 저녁노을 VIII",
       "es": "Atardecer en la Colina Roja VIII"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_08.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_08.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "e45e0d64dd005229abf8133d62708a37501f310e4d39abd38a1b2623ef7c1414",
     "bpm": 60,
@@ -3468,12 +985,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=792s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:07.732686+00:00"
+    "created_at": "2026-10-19T14:32:09.855942+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_09",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 9,
     "title": {
       "ja": "紅山の夕暮れ IX",
       "en": "Dusk on Red Hill IX",
@@ -3482,19 +997,8 @@
       "ko": "레드힐의 저녁노을 IX",
       "es": "Atardecer en la Colina Roja IX"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_09.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_09.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "92a54c7d9003c07548a818436718ca4a20b8fc0af17b8d6d581653a18816333f",
     "bpm": 60,
@@ -3507,12 +1011,10 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=904s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:07.943456+00:00"
+    "created_at": "2026-10-19T14:32:09.877670+00:00"
   },
   {
     "track_id": "rht_20261019_dusk_on_red_hill_10",
-    "episode_id": "20261019_dusk_on_red_hill",
-    "order": 10,
     "title": {
       "ja": "紅山の夕暮れ X",
       "en": "Dusk on Red Hill X",
@@ -3521,19 +1023,8 @@
       "ko": "레드힐의 저녁노을 X",
       "es": "Atardecer en la Colina Roja X"
     },
-    "episode_title": {
-      "ja": "紅山の夕暮れ",
-      "en": "Dusk on Red Hill",
-      "zh-Hans": "红山暮色",
-      "zh-Hant": "紅山暮色",
-      "ko": "레드힐의 저녁노을",
-      "es": "Atardecer en la Colina Roja"
-    },
     "theme_id": "dusk_on_red_hill",
     "file": "tracks/rht_20261019_dusk_on_red_hill_10.m4a",
-    "audio_url": "https://github.com/tiritara-dev/dazen-catalog/releases/download/ep-20261019_dusk_on_red_hill/rht_20261019_dusk_on_red_hill_10.m4a",
-    "cover": "covers/20261019_dusk_on_red_hill.jpg",
-    "cover_url": "https://raw.githubusercontent.com/tiritara-dev/dazen-catalog/main/covers/20261019_dusk_on_red_hill.jpg",
     "duration_sec": 120,
     "sha256": "b199746753132285bb287b6f82793c14483cf8ee63c277ba4841eb6bb55dad3a",
     "bpm": 60,
@@ -3546,6 +1037,6 @@
     "youtube_url": "https://www.youtube.com/watch?v=abc123XYZ45&t=1016s",
     "ai_generated": true,
     "model": "lyria-3.5-mock",
-    "created_at": "2026-10-25T16:29:08.246634+00:00"
+    "created_at": "2026-10-19T14:32:09.899373+00:00"
   }
 ]
